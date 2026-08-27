@@ -1,0 +1,5402 @@
+[
+    {
+        "timestamp": 1,
+        "base_station_id": "BS1",
+        "active_users": 962,
+        "traffic_demand": 97.4,
+        "resource_capacity": 100,
+        "utilization": 97.43,
+        "latency_ms": 184.9,
+        "packet_loss_percent": 13.25
+    },
+    {
+        "timestamp": 1,
+        "base_station_id": "BS2",
+        "active_users": 991,
+        "traffic_demand": 105.2,
+        "resource_capacity": 100,
+        "utilization": 105.17,
+        "latency_ms": 219.4,
+        "packet_loss_percent": 15.85
+    },
+    {
+        "timestamp": 1,
+        "base_station_id": "BS3",
+        "active_users": 953,
+        "traffic_demand": 96.7,
+        "resource_capacity": 100,
+        "utilization": 96.71,
+        "latency_ms": 192.2,
+        "packet_loss_percent": 12.74
+    },
+    {
+        "timestamp": 1,
+        "base_station_id": "BS4",
+        "active_users": 978,
+        "traffic_demand": 101.5,
+        "resource_capacity": 100,
+        "utilization": 101.47,
+        "latency_ms": 200.8,
+        "packet_loss_percent": 14.74
+    },
+    {
+        "timestamp": 1,
+        "base_station_id": "BS5",
+        "active_users": 962,
+        "traffic_demand": 100.4,
+        "resource_capacity": 100,
+        "utilization": 100.37,
+        "latency_ms": 200.8,
+        "packet_loss_percent": 14.37
+    },
+    {
+        "timestamp": 1,
+        "base_station_id": "BS6",
+        "active_users": 1000,
+        "traffic_demand": 106.7,
+        "resource_capacity": 100,
+        "utilization": 106.66,
+        "latency_ms": 210.6,
+        "packet_loss_percent": 16.31
+    },
+    {
+        "timestamp": 2,
+        "base_station_id": "BS1",
+        "active_users": 943,
+        "traffic_demand": 100.3,
+        "resource_capacity": 100,
+        "utilization": 100.34,
+        "latency_ms": 200.5,
+        "packet_loss_percent": 14.35
+    },
+    {
+        "timestamp": 2,
+        "base_station_id": "BS2",
+        "active_users": 945,
+        "traffic_demand": 98.3,
+        "resource_capacity": 100,
+        "utilization": 98.27,
+        "latency_ms": 200.8,
+        "packet_loss_percent": 13.65
+    },
+    {
+        "timestamp": 2,
+        "base_station_id": "BS3",
+        "active_users": 944,
+        "traffic_demand": 98.3,
+        "resource_capacity": 100,
+        "utilization": 98.3,
+        "latency_ms": 193.5,
+        "packet_loss_percent": 13.65
+    },
+    {
+        "timestamp": 2,
+        "base_station_id": "BS4",
+        "active_users": 951,
+        "traffic_demand": 100.8,
+        "resource_capacity": 100,
+        "utilization": 100.83,
+        "latency_ms": 211.8,
+        "packet_loss_percent": 14.51
+    },
+    {
+        "timestamp": 2,
+        "base_station_id": "BS5",
+        "active_users": 954,
+        "traffic_demand": 97.2,
+        "resource_capacity": 100,
+        "utilization": 97.23,
+        "latency_ms": 196.9,
+        "packet_loss_percent": 13.01
+    },
+    {
+        "timestamp": 2,
+        "base_station_id": "BS6",
+        "active_users": 959,
+        "traffic_demand": 104.8,
+        "resource_capacity": 100,
+        "utilization": 104.78,
+        "latency_ms": 219.9,
+        "packet_loss_percent": 15.75
+    },
+    {
+        "timestamp": 3,
+        "base_station_id": "BS1",
+        "active_users": 892,
+        "traffic_demand": 95.9,
+        "resource_capacity": 100,
+        "utilization": 95.9,
+        "latency_ms": 178.8,
+        "packet_loss_percent": 12.38
+    },
+    {
+        "timestamp": 3,
+        "base_station_id": "BS2",
+        "active_users": 914,
+        "traffic_demand": 92.9,
+        "resource_capacity": 100,
+        "utilization": 92.87,
+        "latency_ms": 170.4,
+        "packet_loss_percent": 10.71
+    },
+    {
+        "timestamp": 3,
+        "base_station_id": "BS3",
+        "active_users": 938,
+        "traffic_demand": 103.4,
+        "resource_capacity": 100,
+        "utilization": 103.36,
+        "latency_ms": 211.1,
+        "packet_loss_percent": 15.49
+    },
+    {
+        "timestamp": 3,
+        "base_station_id": "BS4",
+        "active_users": 910,
+        "traffic_demand": 94.1,
+        "resource_capacity": 100,
+        "utilization": 94.08,
+        "latency_ms": 174.5,
+        "packet_loss_percent": 11.45
+    },
+    {
+        "timestamp": 3,
+        "base_station_id": "BS5",
+        "active_users": 928,
+        "traffic_demand": 101.7,
+        "resource_capacity": 100,
+        "utilization": 101.65,
+        "latency_ms": 211.4,
+        "packet_loss_percent": 14.81
+    },
+    {
+        "timestamp": 3,
+        "base_station_id": "BS6",
+        "active_users": 921,
+        "traffic_demand": 101.8,
+        "resource_capacity": 100,
+        "utilization": 101.79,
+        "latency_ms": 217.7,
+        "packet_loss_percent": 14.85
+    },
+    {
+        "timestamp": 4,
+        "base_station_id": "BS1",
+        "active_users": 913,
+        "traffic_demand": 95.1,
+        "resource_capacity": 100,
+        "utilization": 95.09,
+        "latency_ms": 177.5,
+        "packet_loss_percent": 11.92
+    },
+    {
+        "timestamp": 4,
+        "base_station_id": "BS2",
+        "active_users": 898,
+        "traffic_demand": 95.1,
+        "resource_capacity": 100,
+        "utilization": 95.14,
+        "latency_ms": 178.0,
+        "packet_loss_percent": 12.01
+    },
+    {
+        "timestamp": 4,
+        "base_station_id": "BS3",
+        "active_users": 898,
+        "traffic_demand": 91.6,
+        "resource_capacity": 100,
+        "utilization": 91.61,
+        "latency_ms": 172.3,
+        "packet_loss_percent": 9.99
+    },
+    {
+        "timestamp": 4,
+        "base_station_id": "BS4",
+        "active_users": 904,
+        "traffic_demand": 99.2,
+        "resource_capacity": 100,
+        "utilization": 99.18,
+        "latency_ms": 206.3,
+        "packet_loss_percent": 13.86
+    },
+    {
+        "timestamp": 4,
+        "base_station_id": "BS5",
+        "active_users": 916,
+        "traffic_demand": 99.7,
+        "resource_capacity": 100,
+        "utilization": 99.73,
+        "latency_ms": 193.6,
+        "packet_loss_percent": 14.17
+    },
+    {
+        "timestamp": 4,
+        "base_station_id": "BS6",
+        "active_users": 907,
+        "traffic_demand": 97.0,
+        "resource_capacity": 100,
+        "utilization": 97.04,
+        "latency_ms": 185.8,
+        "packet_loss_percent": 12.99
+    },
+    {
+        "timestamp": 5,
+        "base_station_id": "BS1",
+        "active_users": 856,
+        "traffic_demand": 89.2,
+        "resource_capacity": 100,
+        "utilization": 89.22,
+        "latency_ms": 147.6,
+        "packet_loss_percent": 8.59
+    },
+    {
+        "timestamp": 5,
+        "base_station_id": "BS2",
+        "active_users": 870,
+        "traffic_demand": 90.0,
+        "resource_capacity": 100,
+        "utilization": 89.96,
+        "latency_ms": 151.4,
+        "packet_loss_percent": 9.04
+    },
+    {
+        "timestamp": 5,
+        "base_station_id": "BS3",
+        "active_users": 887,
+        "traffic_demand": 92.9,
+        "resource_capacity": 100,
+        "utilization": 92.86,
+        "latency_ms": 168.0,
+        "packet_loss_percent": 10.72
+    },
+    {
+        "timestamp": 5,
+        "base_station_id": "BS4",
+        "active_users": 874,
+        "traffic_demand": 88.4,
+        "resource_capacity": 100,
+        "utilization": 88.43,
+        "latency_ms": 140.0,
+        "packet_loss_percent": 8.13
+    },
+    {
+        "timestamp": 5,
+        "base_station_id": "BS5",
+        "active_users": 857,
+        "traffic_demand": 92.7,
+        "resource_capacity": 100,
+        "utilization": 92.65,
+        "latency_ms": 183.6,
+        "packet_loss_percent": 10.6
+    },
+    {
+        "timestamp": 5,
+        "base_station_id": "BS6",
+        "active_users": 850,
+        "traffic_demand": 89.7,
+        "resource_capacity": 100,
+        "utilization": 89.73,
+        "latency_ms": 163.7,
+        "packet_loss_percent": 8.94
+    },
+    {
+        "timestamp": 6,
+        "base_station_id": "BS1",
+        "active_users": 843,
+        "traffic_demand": 92.4,
+        "resource_capacity": 100,
+        "utilization": 92.36,
+        "latency_ms": 173.5,
+        "packet_loss_percent": 10.42
+    },
+    {
+        "timestamp": 6,
+        "base_station_id": "BS2",
+        "active_users": 844,
+        "traffic_demand": 91.1,
+        "resource_capacity": 100,
+        "utilization": 91.07,
+        "latency_ms": 159.0,
+        "packet_loss_percent": 9.67
+    },
+    {
+        "timestamp": 6,
+        "base_station_id": "BS3",
+        "active_users": 847,
+        "traffic_demand": 93.3,
+        "resource_capacity": 100,
+        "utilization": 93.35,
+        "latency_ms": 175.4,
+        "packet_loss_percent": 11.12
+    },
+    {
+        "timestamp": 6,
+        "base_station_id": "BS4",
+        "active_users": 859,
+        "traffic_demand": 93.9,
+        "resource_capacity": 100,
+        "utilization": 93.88,
+        "latency_ms": 174.4,
+        "packet_loss_percent": 11.27
+    },
+    {
+        "timestamp": 6,
+        "base_station_id": "BS5",
+        "active_users": 856,
+        "traffic_demand": 92.0,
+        "resource_capacity": 100,
+        "utilization": 92.0,
+        "latency_ms": 169.7,
+        "packet_loss_percent": 10.24
+    },
+    {
+        "timestamp": 6,
+        "base_station_id": "BS6",
+        "active_users": 847,
+        "traffic_demand": 93.2,
+        "resource_capacity": 100,
+        "utilization": 93.17,
+        "latency_ms": 177.7,
+        "packet_loss_percent": 10.88
+    },
+    {
+        "timestamp": 7,
+        "base_station_id": "BS1",
+        "active_users": 838,
+        "traffic_demand": 85.6,
+        "resource_capacity": 100,
+        "utilization": 85.64,
+        "latency_ms": 130.0,
+        "packet_loss_percent": 6.57
+    },
+    {
+        "timestamp": 7,
+        "base_station_id": "BS2",
+        "active_users": 826,
+        "traffic_demand": 90.7,
+        "resource_capacity": 100,
+        "utilization": 90.73,
+        "latency_ms": 160.5,
+        "packet_loss_percent": 9.59
+    },
+    {
+        "timestamp": 7,
+        "base_station_id": "BS3",
+        "active_users": 830,
+        "traffic_demand": 85.1,
+        "resource_capacity": 100,
+        "utilization": 85.14,
+        "latency_ms": 125.7,
+        "packet_loss_percent": 6.36
+    },
+    {
+        "timestamp": 7,
+        "base_station_id": "BS4",
+        "active_users": 802,
+        "traffic_demand": 88.6,
+        "resource_capacity": 100,
+        "utilization": 88.62,
+        "latency_ms": 154.8,
+        "packet_loss_percent": 8.24
+    },
+    {
+        "timestamp": 7,
+        "base_station_id": "BS5",
+        "active_users": 809,
+        "traffic_demand": 81.3,
+        "resource_capacity": 100,
+        "utilization": 81.3,
+        "latency_ms": 107.2,
+        "packet_loss_percent": 4.48
+    },
+    {
+        "timestamp": 7,
+        "base_station_id": "BS6",
+        "active_users": 837,
+        "traffic_demand": 89.7,
+        "resource_capacity": 100,
+        "utilization": 89.68,
+        "latency_ms": 156.2,
+        "packet_loss_percent": 8.86
+    },
+    {
+        "timestamp": 8,
+        "base_station_id": "BS1",
+        "active_users": 781,
+        "traffic_demand": 83.3,
+        "resource_capacity": 100,
+        "utilization": 83.27,
+        "latency_ms": 111.6,
+        "packet_loss_percent": 5.39
+    },
+    {
+        "timestamp": 8,
+        "base_station_id": "BS2",
+        "active_users": 837,
+        "traffic_demand": 90.3,
+        "resource_capacity": 100,
+        "utilization": 90.29,
+        "latency_ms": 155.1,
+        "packet_loss_percent": 9.34
+    },
+    {
+        "timestamp": 8,
+        "base_station_id": "BS3",
+        "active_users": 794,
+        "traffic_demand": 81.8,
+        "resource_capacity": 100,
+        "utilization": 81.82,
+        "latency_ms": 107.6,
+        "packet_loss_percent": 4.79
+    },
+    {
+        "timestamp": 8,
+        "base_station_id": "BS4",
+        "active_users": 792,
+        "traffic_demand": 83.3,
+        "resource_capacity": 100,
+        "utilization": 83.29,
+        "latency_ms": 110.8,
+        "packet_loss_percent": 5.36
+    },
+    {
+        "timestamp": 8,
+        "base_station_id": "BS5",
+        "active_users": 789,
+        "traffic_demand": 82.7,
+        "resource_capacity": 100,
+        "utilization": 82.73,
+        "latency_ms": 114.5,
+        "packet_loss_percent": 5.09
+    },
+    {
+        "timestamp": 8,
+        "base_station_id": "BS6",
+        "active_users": 799,
+        "traffic_demand": 85.3,
+        "resource_capacity": 100,
+        "utilization": 85.28,
+        "latency_ms": 132.8,
+        "packet_loss_percent": 6.49
+    },
+    {
+        "timestamp": 9,
+        "base_station_id": "BS1",
+        "active_users": 778,
+        "traffic_demand": 80.6,
+        "resource_capacity": 100,
+        "utilization": 80.57,
+        "latency_ms": 98.9,
+        "packet_loss_percent": 4.19
+    },
+    {
+        "timestamp": 9,
+        "base_station_id": "BS2",
+        "active_users": 784,
+        "traffic_demand": 84.1,
+        "resource_capacity": 100,
+        "utilization": 84.06,
+        "latency_ms": 122.6,
+        "packet_loss_percent": 5.74
+    },
+    {
+        "timestamp": 9,
+        "base_station_id": "BS3",
+        "active_users": 776,
+        "traffic_demand": 82.3,
+        "resource_capacity": 100,
+        "utilization": 82.3,
+        "latency_ms": 108.2,
+        "packet_loss_percent": 4.92
+    },
+    {
+        "timestamp": 9,
+        "base_station_id": "BS4",
+        "active_users": 793,
+        "traffic_demand": 86.2,
+        "resource_capacity": 100,
+        "utilization": 86.18,
+        "latency_ms": 139.4,
+        "packet_loss_percent": 6.86
+    },
+    {
+        "timestamp": 9,
+        "base_station_id": "BS5",
+        "active_users": 771,
+        "traffic_demand": 78.2,
+        "resource_capacity": 100,
+        "utilization": 78.21,
+        "latency_ms": 84.7,
+        "packet_loss_percent": 3.34
+    },
+    {
+        "timestamp": 9,
+        "base_station_id": "BS6",
+        "active_users": 787,
+        "traffic_demand": 79.7,
+        "resource_capacity": 100,
+        "utilization": 79.7,
+        "latency_ms": 94.5,
+        "packet_loss_percent": 3.94
+    },
+    {
+        "timestamp": 10,
+        "base_station_id": "BS1",
+        "active_users": 779,
+        "traffic_demand": 84.6,
+        "resource_capacity": 100,
+        "utilization": 84.56,
+        "latency_ms": 128.0,
+        "packet_loss_percent": 6.0
+    },
+    {
+        "timestamp": 10,
+        "base_station_id": "BS2",
+        "active_users": 789,
+        "traffic_demand": 82.6,
+        "resource_capacity": 100,
+        "utilization": 82.64,
+        "latency_ms": 113.6,
+        "packet_loss_percent": 5.13
+    },
+    {
+        "timestamp": 10,
+        "base_station_id": "BS3",
+        "active_users": 803,
+        "traffic_demand": 86.8,
+        "resource_capacity": 100,
+        "utilization": 86.78,
+        "latency_ms": 138.2,
+        "packet_loss_percent": 7.21
+    },
+    {
+        "timestamp": 10,
+        "base_station_id": "BS4",
+        "active_users": 778,
+        "traffic_demand": 80.5,
+        "resource_capacity": 100,
+        "utilization": 80.48,
+        "latency_ms": 91.7,
+        "packet_loss_percent": 4.1
+    },
+    {
+        "timestamp": 10,
+        "base_station_id": "BS5",
+        "active_users": 749,
+        "traffic_demand": 82.2,
+        "resource_capacity": 100,
+        "utilization": 82.2,
+        "latency_ms": 114.9,
+        "packet_loss_percent": 4.84
+    },
+    {
+        "timestamp": 10,
+        "base_station_id": "BS6",
+        "active_users": 777,
+        "traffic_demand": 83.0,
+        "resource_capacity": 100,
+        "utilization": 83.0,
+        "latency_ms": 111.4,
+        "packet_loss_percent": 5.25
+    },
+    {
+        "timestamp": 11,
+        "base_station_id": "BS1",
+        "active_users": 749,
+        "traffic_demand": 76.4,
+        "resource_capacity": 100,
+        "utilization": 76.39,
+        "latency_ms": 77.3,
+        "packet_loss_percent": 2.71
+    },
+    {
+        "timestamp": 11,
+        "base_station_id": "BS2",
+        "active_users": 771,
+        "traffic_demand": 80.7,
+        "resource_capacity": 100,
+        "utilization": 80.71,
+        "latency_ms": 100.3,
+        "packet_loss_percent": 4.19
+    },
+    {
+        "timestamp": 11,
+        "base_station_id": "BS3",
+        "active_users": 751,
+        "traffic_demand": 79.5,
+        "resource_capacity": 100,
+        "utilization": 79.54,
+        "latency_ms": 96.3,
+        "packet_loss_percent": 3.86
+    },
+    {
+        "timestamp": 11,
+        "base_station_id": "BS4",
+        "active_users": 781,
+        "traffic_demand": 78.6,
+        "resource_capacity": 100,
+        "utilization": 78.58,
+        "latency_ms": 86.6,
+        "packet_loss_percent": 3.38
+    },
+    {
+        "timestamp": 11,
+        "base_station_id": "BS5",
+        "active_users": 730,
+        "traffic_demand": 74.4,
+        "resource_capacity": 100,
+        "utilization": 74.35,
+        "latency_ms": 66.5,
+        "packet_loss_percent": 2.2
+    },
+    {
+        "timestamp": 11,
+        "base_station_id": "BS6",
+        "active_users": 744,
+        "traffic_demand": 75.6,
+        "resource_capacity": 100,
+        "utilization": 75.62,
+        "latency_ms": 74.1,
+        "packet_loss_percent": 2.49
+    },
+    {
+        "timestamp": 12,
+        "base_station_id": "BS1",
+        "active_users": 718,
+        "traffic_demand": 78.1,
+        "resource_capacity": 100,
+        "utilization": 78.06,
+        "latency_ms": 87.2,
+        "packet_loss_percent": 3.2
+    },
+    {
+        "timestamp": 12,
+        "base_station_id": "BS2",
+        "active_users": 725,
+        "traffic_demand": 74.3,
+        "resource_capacity": 100,
+        "utilization": 74.28,
+        "latency_ms": 65.0,
+        "packet_loss_percent": 2.11
+    },
+    {
+        "timestamp": 12,
+        "base_station_id": "BS3",
+        "active_users": 752,
+        "traffic_demand": 82.5,
+        "resource_capacity": 100,
+        "utilization": 82.47,
+        "latency_ms": 111.9,
+        "packet_loss_percent": 5.07
+    },
+    {
+        "timestamp": 12,
+        "base_station_id": "BS4",
+        "active_users": 724,
+        "traffic_demand": 74.6,
+        "resource_capacity": 100,
+        "utilization": 74.64,
+        "latency_ms": 66.7,
+        "packet_loss_percent": 2.2
+    },
+    {
+        "timestamp": 12,
+        "base_station_id": "BS5",
+        "active_users": 732,
+        "traffic_demand": 78.0,
+        "resource_capacity": 100,
+        "utilization": 78.01,
+        "latency_ms": 80.8,
+        "packet_loss_percent": 3.18
+    },
+    {
+        "timestamp": 12,
+        "base_station_id": "BS6",
+        "active_users": 770,
+        "traffic_demand": 80.7,
+        "resource_capacity": 100,
+        "utilization": 80.69,
+        "latency_ms": 100.9,
+        "packet_loss_percent": 4.18
+    },
+    {
+        "timestamp": 13,
+        "base_station_id": "BS1",
+        "active_users": 702,
+        "traffic_demand": 71.3,
+        "resource_capacity": 100,
+        "utilization": 71.3,
+        "latency_ms": 54.6,
+        "packet_loss_percent": 1.51
+    },
+    {
+        "timestamp": 13,
+        "base_station_id": "BS2",
+        "active_users": 709,
+        "traffic_demand": 78.1,
+        "resource_capacity": 100,
+        "utilization": 78.13,
+        "latency_ms": 90.6,
+        "packet_loss_percent": 3.22
+    },
+    {
+        "timestamp": 13,
+        "base_station_id": "BS3",
+        "active_users": 714,
+        "traffic_demand": 77.5,
+        "resource_capacity": 100,
+        "utilization": 77.46,
+        "latency_ms": 82.2,
+        "packet_loss_percent": 3.05
+    },
+    {
+        "timestamp": 13,
+        "base_station_id": "BS4",
+        "active_users": 729,
+        "traffic_demand": 78.4,
+        "resource_capacity": 100,
+        "utilization": 78.38,
+        "latency_ms": 84.8,
+        "packet_loss_percent": 3.31
+    },
+    {
+        "timestamp": 13,
+        "base_station_id": "BS5",
+        "active_users": 692,
+        "traffic_demand": 71.8,
+        "resource_capacity": 100,
+        "utilization": 71.84,
+        "latency_ms": 58.8,
+        "packet_loss_percent": 1.68
+    },
+    {
+        "timestamp": 13,
+        "base_station_id": "BS6",
+        "active_users": 710,
+        "traffic_demand": 74.2,
+        "resource_capacity": 100,
+        "utilization": 74.18,
+        "latency_ms": 66.1,
+        "packet_loss_percent": 2.09
+    },
+    {
+        "timestamp": 14,
+        "base_station_id": "BS1",
+        "active_users": 688,
+        "traffic_demand": 71.3,
+        "resource_capacity": 100,
+        "utilization": 71.26,
+        "latency_ms": 55.8,
+        "packet_loss_percent": 1.5
+    },
+    {
+        "timestamp": 14,
+        "base_station_id": "BS2",
+        "active_users": 714,
+        "traffic_demand": 73.0,
+        "resource_capacity": 100,
+        "utilization": 72.96,
+        "latency_ms": 61.5,
+        "packet_loss_percent": 1.87
+    },
+    {
+        "timestamp": 14,
+        "base_station_id": "BS3",
+        "active_users": 710,
+        "traffic_demand": 76.0,
+        "resource_capacity": 100,
+        "utilization": 75.95,
+        "latency_ms": 78.6,
+        "packet_loss_percent": 2.55
+    },
+    {
+        "timestamp": 14,
+        "base_station_id": "BS4",
+        "active_users": 677,
+        "traffic_demand": 71.7,
+        "resource_capacity": 100,
+        "utilization": 71.71,
+        "latency_ms": 56.6,
+        "packet_loss_percent": 1.58
+    },
+    {
+        "timestamp": 14,
+        "base_station_id": "BS5",
+        "active_users": 693,
+        "traffic_demand": 70.4,
+        "resource_capacity": 100,
+        "utilization": 70.37,
+        "latency_ms": 50.8,
+        "packet_loss_percent": 1.44
+    },
+    {
+        "timestamp": 14,
+        "base_station_id": "BS6",
+        "active_users": 713,
+        "traffic_demand": 73.6,
+        "resource_capacity": 100,
+        "utilization": 73.62,
+        "latency_ms": 65.6,
+        "packet_loss_percent": 1.96
+    },
+    {
+        "timestamp": 15,
+        "base_station_id": "BS1",
+        "active_users": 680,
+        "traffic_demand": 69.6,
+        "resource_capacity": 100,
+        "utilization": 69.63,
+        "latency_ms": 48.9,
+        "packet_loss_percent": 1.24
+    },
+    {
+        "timestamp": 15,
+        "base_station_id": "BS2",
+        "active_users": 681,
+        "traffic_demand": 70.9,
+        "resource_capacity": 100,
+        "utilization": 70.89,
+        "latency_ms": 52.4,
+        "packet_loss_percent": 1.44
+    },
+    {
+        "timestamp": 15,
+        "base_station_id": "BS3",
+        "active_users": 662,
+        "traffic_demand": 68.9,
+        "resource_capacity": 100,
+        "utilization": 68.95,
+        "latency_ms": 47.9,
+        "packet_loss_percent": 1.15
+    },
+    {
+        "timestamp": 15,
+        "base_station_id": "BS4",
+        "active_users": 673,
+        "traffic_demand": 72.7,
+        "resource_capacity": 100,
+        "utilization": 72.67,
+        "latency_ms": 59.1,
+        "packet_loss_percent": 1.76
+    },
+    {
+        "timestamp": 15,
+        "base_station_id": "BS5",
+        "active_users": 662,
+        "traffic_demand": 67.7,
+        "resource_capacity": 100,
+        "utilization": 67.66,
+        "latency_ms": 44.8,
+        "packet_loss_percent": 0.99
+    },
+    {
+        "timestamp": 15,
+        "base_station_id": "BS6",
+        "active_users": 693,
+        "traffic_demand": 75.6,
+        "resource_capacity": 100,
+        "utilization": 75.64,
+        "latency_ms": 76.3,
+        "packet_loss_percent": 2.6
+    },
+    {
+        "timestamp": 16,
+        "base_station_id": "BS1",
+        "active_users": 655,
+        "traffic_demand": 69.7,
+        "resource_capacity": 100,
+        "utilization": 69.72,
+        "latency_ms": 52.7,
+        "packet_loss_percent": 1.25
+    },
+    {
+        "timestamp": 16,
+        "base_station_id": "BS2",
+        "active_users": 638,
+        "traffic_demand": 68.4,
+        "resource_capacity": 100,
+        "utilization": 68.4,
+        "latency_ms": 45.7,
+        "packet_loss_percent": 1.07
+    },
+    {
+        "timestamp": 16,
+        "base_station_id": "BS3",
+        "active_users": 698,
+        "traffic_demand": 70.3,
+        "resource_capacity": 100,
+        "utilization": 70.28,
+        "latency_ms": 51.5,
+        "packet_loss_percent": 1.38
+    },
+    {
+        "timestamp": 16,
+        "base_station_id": "BS4",
+        "active_users": 658,
+        "traffic_demand": 72.1,
+        "resource_capacity": 100,
+        "utilization": 72.12,
+        "latency_ms": 58.2,
+        "packet_loss_percent": 1.7
+    },
+    {
+        "timestamp": 16,
+        "base_station_id": "BS5",
+        "active_users": 675,
+        "traffic_demand": 70.2,
+        "resource_capacity": 100,
+        "utilization": 70.15,
+        "latency_ms": 53.8,
+        "packet_loss_percent": 1.41
+    },
+    {
+        "timestamp": 16,
+        "base_station_id": "BS6",
+        "active_users": 658,
+        "traffic_demand": 71.6,
+        "resource_capacity": 100,
+        "utilization": 71.58,
+        "latency_ms": 53.3,
+        "packet_loss_percent": 1.57
+    },
+    {
+        "timestamp": 17,
+        "base_station_id": "BS1",
+        "active_users": 652,
+        "traffic_demand": 69.2,
+        "resource_capacity": 100,
+        "utilization": 69.15,
+        "latency_ms": 48.4,
+        "packet_loss_percent": 1.21
+    },
+    {
+        "timestamp": 17,
+        "base_station_id": "BS2",
+        "active_users": 649,
+        "traffic_demand": 67.8,
+        "resource_capacity": 100,
+        "utilization": 67.8,
+        "latency_ms": 42.0,
+        "packet_loss_percent": 1.0
+    },
+    {
+        "timestamp": 17,
+        "base_station_id": "BS3",
+        "active_users": 664,
+        "traffic_demand": 69.8,
+        "resource_capacity": 100,
+        "utilization": 69.79,
+        "latency_ms": 51.3,
+        "packet_loss_percent": 1.38
+    },
+    {
+        "timestamp": 17,
+        "base_station_id": "BS4",
+        "active_users": 652,
+        "traffic_demand": 71.4,
+        "resource_capacity": 100,
+        "utilization": 71.43,
+        "latency_ms": 57.8,
+        "packet_loss_percent": 1.53
+    },
+    {
+        "timestamp": 17,
+        "base_station_id": "BS5",
+        "active_users": 664,
+        "traffic_demand": 71.7,
+        "resource_capacity": 100,
+        "utilization": 71.73,
+        "latency_ms": 57.9,
+        "packet_loss_percent": 1.63
+    },
+    {
+        "timestamp": 17,
+        "base_station_id": "BS6",
+        "active_users": 665,
+        "traffic_demand": 69.2,
+        "resource_capacity": 100,
+        "utilization": 69.23,
+        "latency_ms": 48.1,
+        "packet_loss_percent": 1.2
+    },
+    {
+        "timestamp": 18,
+        "base_station_id": "BS1",
+        "active_users": 630,
+        "traffic_demand": 69.2,
+        "resource_capacity": 100,
+        "utilization": 69.2,
+        "latency_ms": 45.5,
+        "packet_loss_percent": 1.18
+    },
+    {
+        "timestamp": 18,
+        "base_station_id": "BS2",
+        "active_users": 635,
+        "traffic_demand": 69.6,
+        "resource_capacity": 100,
+        "utilization": 69.57,
+        "latency_ms": 52.6,
+        "packet_loss_percent": 1.23
+    },
+    {
+        "timestamp": 18,
+        "base_station_id": "BS3",
+        "active_users": 612,
+        "traffic_demand": 67.6,
+        "resource_capacity": 100,
+        "utilization": 67.59,
+        "latency_ms": 42.1,
+        "packet_loss_percent": 1.0
+    },
+    {
+        "timestamp": 18,
+        "base_station_id": "BS4",
+        "active_users": 637,
+        "traffic_demand": 64.6,
+        "resource_capacity": 100,
+        "utilization": 64.61,
+        "latency_ms": 35.8,
+        "packet_loss_percent": 0.77
+    },
+    {
+        "timestamp": 18,
+        "base_station_id": "BS5",
+        "active_users": 668,
+        "traffic_demand": 72.4,
+        "resource_capacity": 100,
+        "utilization": 72.42,
+        "latency_ms": 63.6,
+        "packet_loss_percent": 1.71
+    },
+    {
+        "timestamp": 18,
+        "base_station_id": "BS6",
+        "active_users": 607,
+        "traffic_demand": 62.8,
+        "resource_capacity": 100,
+        "utilization": 62.78,
+        "latency_ms": 32.0,
+        "packet_loss_percent": 0.56
+    },
+    {
+        "timestamp": 19,
+        "base_station_id": "BS1",
+        "active_users": 645,
+        "traffic_demand": 69.9,
+        "resource_capacity": 100,
+        "utilization": 69.93,
+        "latency_ms": 51.2,
+        "packet_loss_percent": 1.45
+    },
+    {
+        "timestamp": 19,
+        "base_station_id": "BS2",
+        "active_users": 630,
+        "traffic_demand": 65.8,
+        "resource_capacity": 100,
+        "utilization": 65.83,
+        "latency_ms": 39.9,
+        "packet_loss_percent": 0.93
+    },
+    {
+        "timestamp": 19,
+        "base_station_id": "BS3",
+        "active_users": 631,
+        "traffic_demand": 66.6,
+        "resource_capacity": 100,
+        "utilization": 66.63,
+        "latency_ms": 41.7,
+        "packet_loss_percent": 0.95
+    },
+    {
+        "timestamp": 19,
+        "base_station_id": "BS4",
+        "active_users": 618,
+        "traffic_demand": 67.8,
+        "resource_capacity": 100,
+        "utilization": 67.76,
+        "latency_ms": 44.6,
+        "packet_loss_percent": 1.02
+    },
+    {
+        "timestamp": 19,
+        "base_station_id": "BS5",
+        "active_users": 621,
+        "traffic_demand": 65.0,
+        "resource_capacity": 100,
+        "utilization": 65.0,
+        "latency_ms": 38.1,
+        "packet_loss_percent": 0.85
+    },
+    {
+        "timestamp": 19,
+        "base_station_id": "BS6",
+        "active_users": 633,
+        "traffic_demand": 68.4,
+        "resource_capacity": 100,
+        "utilization": 68.43,
+        "latency_ms": 45.1,
+        "packet_loss_percent": 1.09
+    },
+    {
+        "timestamp": 20,
+        "base_station_id": "BS1",
+        "active_users": 607,
+        "traffic_demand": 67.0,
+        "resource_capacity": 100,
+        "utilization": 66.95,
+        "latency_ms": 41.4,
+        "packet_loss_percent": 0.91
+    },
+    {
+        "timestamp": 20,
+        "base_station_id": "BS2",
+        "active_users": 597,
+        "traffic_demand": 59.9,
+        "resource_capacity": 100,
+        "utilization": 59.86,
+        "latency_ms": 26.4,
+        "packet_loss_percent": 0.52
+    },
+    {
+        "timestamp": 20,
+        "base_station_id": "BS3",
+        "active_users": 611,
+        "traffic_demand": 65.5,
+        "resource_capacity": 100,
+        "utilization": 65.48,
+        "latency_ms": 38.2,
+        "packet_loss_percent": 0.76
+    },
+    {
+        "timestamp": 20,
+        "base_station_id": "BS4",
+        "active_users": 601,
+        "traffic_demand": 65.3,
+        "resource_capacity": 100,
+        "utilization": 65.26,
+        "latency_ms": 38.7,
+        "packet_loss_percent": 0.74
+    },
+    {
+        "timestamp": 20,
+        "base_station_id": "BS5",
+        "active_users": 603,
+        "traffic_demand": 66.3,
+        "resource_capacity": 100,
+        "utilization": 66.29,
+        "latency_ms": 40.5,
+        "packet_loss_percent": 0.84
+    },
+    {
+        "timestamp": 20,
+        "base_station_id": "BS6",
+        "active_users": 595,
+        "traffic_demand": 62.7,
+        "resource_capacity": 100,
+        "utilization": 62.65,
+        "latency_ms": 32.1,
+        "packet_loss_percent": 0.73
+    },
+    {
+        "timestamp": 21,
+        "base_station_id": "BS1",
+        "active_users": 607,
+        "traffic_demand": 65.0,
+        "resource_capacity": 100,
+        "utilization": 65.03,
+        "latency_ms": 36.8,
+        "packet_loss_percent": 0.72
+    },
+    {
+        "timestamp": 21,
+        "base_station_id": "BS2",
+        "active_users": 618,
+        "traffic_demand": 62.6,
+        "resource_capacity": 100,
+        "utilization": 62.58,
+        "latency_ms": 32.9,
+        "packet_loss_percent": 0.55
+    },
+    {
+        "timestamp": 21,
+        "base_station_id": "BS3",
+        "active_users": 606,
+        "traffic_demand": 63.1,
+        "resource_capacity": 100,
+        "utilization": 63.07,
+        "latency_ms": 33.3,
+        "packet_loss_percent": 0.66
+    },
+    {
+        "timestamp": 21,
+        "base_station_id": "BS4",
+        "active_users": 624,
+        "traffic_demand": 67.6,
+        "resource_capacity": 100,
+        "utilization": 67.56,
+        "latency_ms": 43.3,
+        "packet_loss_percent": 0.97
+    },
+    {
+        "timestamp": 21,
+        "base_station_id": "BS5",
+        "active_users": 629,
+        "traffic_demand": 68.7,
+        "resource_capacity": 100,
+        "utilization": 68.69,
+        "latency_ms": 46.6,
+        "packet_loss_percent": 1.11
+    },
+    {
+        "timestamp": 21,
+        "base_station_id": "BS6",
+        "active_users": 596,
+        "traffic_demand": 63.6,
+        "resource_capacity": 100,
+        "utilization": 63.56,
+        "latency_ms": 34.8,
+        "packet_loss_percent": 0.61
+    },
+    {
+        "timestamp": 22,
+        "base_station_id": "BS1",
+        "active_users": 608,
+        "traffic_demand": 61.6,
+        "resource_capacity": 100,
+        "utilization": 61.56,
+        "latency_ms": 29.3,
+        "packet_loss_percent": 0.58
+    },
+    {
+        "timestamp": 22,
+        "base_station_id": "BS2",
+        "active_users": 606,
+        "traffic_demand": 61.9,
+        "resource_capacity": 100,
+        "utilization": 61.93,
+        "latency_ms": 31.1,
+        "packet_loss_percent": 0.51
+    },
+    {
+        "timestamp": 22,
+        "base_station_id": "BS3",
+        "active_users": 621,
+        "traffic_demand": 62.2,
+        "resource_capacity": 100,
+        "utilization": 62.15,
+        "latency_ms": 32.8,
+        "packet_loss_percent": 0.53
+    },
+    {
+        "timestamp": 22,
+        "base_station_id": "BS4",
+        "active_users": 579,
+        "traffic_demand": 58.3,
+        "resource_capacity": 100,
+        "utilization": 58.28,
+        "latency_ms": 26.8,
+        "packet_loss_percent": 0.37
+    },
+    {
+        "timestamp": 22,
+        "base_station_id": "BS5",
+        "active_users": 573,
+        "traffic_demand": 58.5,
+        "resource_capacity": 100,
+        "utilization": 58.55,
+        "latency_ms": 26.2,
+        "packet_loss_percent": 0.46
+    },
+    {
+        "timestamp": 22,
+        "base_station_id": "BS6",
+        "active_users": 588,
+        "traffic_demand": 60.0,
+        "resource_capacity": 100,
+        "utilization": 60.03,
+        "latency_ms": 27.9,
+        "packet_loss_percent": 0.53
+    },
+    {
+        "timestamp": 23,
+        "base_station_id": "BS1",
+        "active_users": 582,
+        "traffic_demand": 59.4,
+        "resource_capacity": 100,
+        "utilization": 59.38,
+        "latency_ms": 27.1,
+        "packet_loss_percent": 0.43
+    },
+    {
+        "timestamp": 23,
+        "base_station_id": "BS2",
+        "active_users": 579,
+        "traffic_demand": 59.1,
+        "resource_capacity": 100,
+        "utilization": 59.14,
+        "latency_ms": 27.9,
+        "packet_loss_percent": 0.45
+    },
+    {
+        "timestamp": 23,
+        "base_station_id": "BS3",
+        "active_users": 601,
+        "traffic_demand": 64.6,
+        "resource_capacity": 100,
+        "utilization": 64.64,
+        "latency_ms": 35.9,
+        "packet_loss_percent": 0.74
+    },
+    {
+        "timestamp": 23,
+        "base_station_id": "BS4",
+        "active_users": 583,
+        "traffic_demand": 60.3,
+        "resource_capacity": 100,
+        "utilization": 60.31,
+        "latency_ms": 29.2,
+        "packet_loss_percent": 0.42
+    },
+    {
+        "timestamp": 23,
+        "base_station_id": "BS5",
+        "active_users": 565,
+        "traffic_demand": 60.2,
+        "resource_capacity": 100,
+        "utilization": 60.15,
+        "latency_ms": 27.4,
+        "packet_loss_percent": 0.41
+    },
+    {
+        "timestamp": 23,
+        "base_station_id": "BS6",
+        "active_users": 578,
+        "traffic_demand": 60.4,
+        "resource_capacity": 100,
+        "utilization": 60.44,
+        "latency_ms": 29.6,
+        "packet_loss_percent": 0.43
+    },
+    {
+        "timestamp": 24,
+        "base_station_id": "BS1",
+        "active_users": 546,
+        "traffic_demand": 60.2,
+        "resource_capacity": 100,
+        "utilization": 60.22,
+        "latency_ms": 28.2,
+        "packet_loss_percent": 0.42
+    },
+    {
+        "timestamp": 24,
+        "base_station_id": "BS2",
+        "active_users": 593,
+        "traffic_demand": 59.7,
+        "resource_capacity": 100,
+        "utilization": 59.72,
+        "latency_ms": 28.7,
+        "packet_loss_percent": 0.42
+    },
+    {
+        "timestamp": 24,
+        "base_station_id": "BS3",
+        "active_users": 565,
+        "traffic_demand": 61.4,
+        "resource_capacity": 100,
+        "utilization": 61.45,
+        "latency_ms": 29.0,
+        "packet_loss_percent": 0.6
+    },
+    {
+        "timestamp": 24,
+        "base_station_id": "BS4",
+        "active_users": 580,
+        "traffic_demand": 62.4,
+        "resource_capacity": 100,
+        "utilization": 62.4,
+        "latency_ms": 33.6,
+        "packet_loss_percent": 0.54
+    },
+    {
+        "timestamp": 24,
+        "base_station_id": "BS5",
+        "active_users": 585,
+        "traffic_demand": 64.1,
+        "resource_capacity": 100,
+        "utilization": 64.14,
+        "latency_ms": 35.9,
+        "packet_loss_percent": 0.65
+    },
+    {
+        "timestamp": 24,
+        "base_station_id": "BS6",
+        "active_users": 585,
+        "traffic_demand": 62.7,
+        "resource_capacity": 100,
+        "utilization": 62.72,
+        "latency_ms": 33.2,
+        "packet_loss_percent": 0.58
+    },
+    {
+        "timestamp": 25,
+        "base_station_id": "BS1",
+        "active_users": 566,
+        "traffic_demand": 61.1,
+        "resource_capacity": 100,
+        "utilization": 61.05,
+        "latency_ms": 28.8,
+        "packet_loss_percent": 0.46
+    },
+    {
+        "timestamp": 25,
+        "base_station_id": "BS2",
+        "active_users": 559,
+        "traffic_demand": 60.5,
+        "resource_capacity": 100,
+        "utilization": 60.47,
+        "latency_ms": 27.4,
+        "packet_loss_percent": 0.71
+    },
+    {
+        "timestamp": 25,
+        "base_station_id": "BS3",
+        "active_users": 564,
+        "traffic_demand": 56.7,
+        "resource_capacity": 100,
+        "utilization": 56.74,
+        "latency_ms": 25.6,
+        "packet_loss_percent": 0.29
+    },
+    {
+        "timestamp": 25,
+        "base_station_id": "BS4",
+        "active_users": 570,
+        "traffic_demand": 59.9,
+        "resource_capacity": 100,
+        "utilization": 59.86,
+        "latency_ms": 29.7,
+        "packet_loss_percent": 0.4
+    },
+    {
+        "timestamp": 25,
+        "base_station_id": "BS5",
+        "active_users": 574,
+        "traffic_demand": 62.8,
+        "resource_capacity": 100,
+        "utilization": 62.83,
+        "latency_ms": 32.5,
+        "packet_loss_percent": 0.56
+    },
+    {
+        "timestamp": 25,
+        "base_station_id": "BS6",
+        "active_users": 559,
+        "traffic_demand": 60.4,
+        "resource_capacity": 100,
+        "utilization": 60.42,
+        "latency_ms": 28.6,
+        "packet_loss_percent": 0.44
+    },
+    {
+        "timestamp": 26,
+        "base_station_id": "BS1",
+        "active_users": 555,
+        "traffic_demand": 61.4,
+        "resource_capacity": 100,
+        "utilization": 61.37,
+        "latency_ms": 30.9,
+        "packet_loss_percent": 0.48
+    },
+    {
+        "timestamp": 26,
+        "base_station_id": "BS2",
+        "active_users": 536,
+        "traffic_demand": 53.7,
+        "resource_capacity": 100,
+        "utilization": 53.7,
+        "latency_ms": 22.2,
+        "packet_loss_percent": 0.21
+    },
+    {
+        "timestamp": 26,
+        "base_station_id": "BS3",
+        "active_users": 556,
+        "traffic_demand": 56.8,
+        "resource_capacity": 100,
+        "utilization": 56.76,
+        "latency_ms": 25.6,
+        "packet_loss_percent": 0.35
+    },
+    {
+        "timestamp": 26,
+        "base_station_id": "BS4",
+        "active_users": 555,
+        "traffic_demand": 56.5,
+        "resource_capacity": 100,
+        "utilization": 56.46,
+        "latency_ms": 24.0,
+        "packet_loss_percent": 0.29
+    },
+    {
+        "timestamp": 26,
+        "base_station_id": "BS5",
+        "active_users": 537,
+        "traffic_demand": 59.2,
+        "resource_capacity": 100,
+        "utilization": 59.15,
+        "latency_ms": 27.6,
+        "packet_loss_percent": 0.37
+    },
+    {
+        "timestamp": 26,
+        "base_station_id": "BS6",
+        "active_users": 544,
+        "traffic_demand": 57.2,
+        "resource_capacity": 100,
+        "utilization": 57.2,
+        "latency_ms": 24.7,
+        "packet_loss_percent": 0.3
+    },
+    {
+        "timestamp": 27,
+        "base_station_id": "BS1",
+        "active_users": 546,
+        "traffic_demand": 60.2,
+        "resource_capacity": 100,
+        "utilization": 60.18,
+        "latency_ms": 28.3,
+        "packet_loss_percent": 0.61
+    },
+    {
+        "timestamp": 27,
+        "base_station_id": "BS2",
+        "active_users": 551,
+        "traffic_demand": 55.6,
+        "resource_capacity": 100,
+        "utilization": 55.56,
+        "latency_ms": 22.8,
+        "packet_loss_percent": 0.33
+    },
+    {
+        "timestamp": 27,
+        "base_station_id": "BS3",
+        "active_users": 535,
+        "traffic_demand": 58.8,
+        "resource_capacity": 100,
+        "utilization": 58.82,
+        "latency_ms": 27.4,
+        "packet_loss_percent": 0.38
+    },
+    {
+        "timestamp": 27,
+        "base_station_id": "BS4",
+        "active_users": 523,
+        "traffic_demand": 52.4,
+        "resource_capacity": 100,
+        "utilization": 52.37,
+        "latency_ms": 20.7,
+        "packet_loss_percent": 0.23
+    },
+    {
+        "timestamp": 27,
+        "base_station_id": "BS5",
+        "active_users": 522,
+        "traffic_demand": 54.6,
+        "resource_capacity": 100,
+        "utilization": 54.58,
+        "latency_ms": 21.4,
+        "packet_loss_percent": 0.26
+    },
+    {
+        "timestamp": 27,
+        "base_station_id": "BS6",
+        "active_users": 543,
+        "traffic_demand": 55.9,
+        "resource_capacity": 100,
+        "utilization": 55.93,
+        "latency_ms": 23.3,
+        "packet_loss_percent": 0.26
+    },
+    {
+        "timestamp": 28,
+        "base_station_id": "BS1",
+        "active_users": 537,
+        "traffic_demand": 59.3,
+        "resource_capacity": 100,
+        "utilization": 59.28,
+        "latency_ms": 26.5,
+        "packet_loss_percent": 0.46
+    },
+    {
+        "timestamp": 28,
+        "base_station_id": "BS2",
+        "active_users": 534,
+        "traffic_demand": 55.8,
+        "resource_capacity": 100,
+        "utilization": 55.82,
+        "latency_ms": 23.8,
+        "packet_loss_percent": 0.33
+    },
+    {
+        "timestamp": 28,
+        "base_station_id": "BS3",
+        "active_users": 531,
+        "traffic_demand": 54.9,
+        "resource_capacity": 100,
+        "utilization": 54.9,
+        "latency_ms": 24.8,
+        "packet_loss_percent": 0.42
+    },
+    {
+        "timestamp": 28,
+        "base_station_id": "BS4",
+        "active_users": 508,
+        "traffic_demand": 55.0,
+        "resource_capacity": 100,
+        "utilization": 55.02,
+        "latency_ms": 21.6,
+        "packet_loss_percent": 0.24
+    },
+    {
+        "timestamp": 28,
+        "base_station_id": "BS5",
+        "active_users": 523,
+        "traffic_demand": 53.1,
+        "resource_capacity": 100,
+        "utilization": 53.06,
+        "latency_ms": 21.9,
+        "packet_loss_percent": 0.2
+    },
+    {
+        "timestamp": 28,
+        "base_station_id": "BS6",
+        "active_users": 547,
+        "traffic_demand": 60.3,
+        "resource_capacity": 100,
+        "utilization": 60.35,
+        "latency_ms": 28.9,
+        "packet_loss_percent": 0.53
+    },
+    {
+        "timestamp": 29,
+        "base_station_id": "BS1",
+        "active_users": 521,
+        "traffic_demand": 54.9,
+        "resource_capacity": 100,
+        "utilization": 54.85,
+        "latency_ms": 24.5,
+        "packet_loss_percent": 0.23
+    },
+    {
+        "timestamp": 29,
+        "base_station_id": "BS2",
+        "active_users": 520,
+        "traffic_demand": 54.8,
+        "resource_capacity": 100,
+        "utilization": 54.8,
+        "latency_ms": 24.0,
+        "packet_loss_percent": 0.31
+    },
+    {
+        "timestamp": 29,
+        "base_station_id": "BS3",
+        "active_users": 515,
+        "traffic_demand": 54.2,
+        "resource_capacity": 100,
+        "utilization": 54.16,
+        "latency_ms": 21.9,
+        "packet_loss_percent": 0.22
+    },
+    {
+        "timestamp": 29,
+        "base_station_id": "BS4",
+        "active_users": 500,
+        "traffic_demand": 55.1,
+        "resource_capacity": 100,
+        "utilization": 55.09,
+        "latency_ms": 22.8,
+        "packet_loss_percent": 0.33
+    },
+    {
+        "timestamp": 29,
+        "base_station_id": "BS5",
+        "active_users": 523,
+        "traffic_demand": 53.9,
+        "resource_capacity": 100,
+        "utilization": 53.92,
+        "latency_ms": 20.2,
+        "packet_loss_percent": 0.31
+    },
+    {
+        "timestamp": 29,
+        "base_station_id": "BS6",
+        "active_users": 542,
+        "traffic_demand": 54.6,
+        "resource_capacity": 100,
+        "utilization": 54.56,
+        "latency_ms": 22.5,
+        "packet_loss_percent": 0.34
+    },
+    {
+        "timestamp": 30,
+        "base_station_id": "BS1",
+        "active_users": 497,
+        "traffic_demand": 52.3,
+        "resource_capacity": 100,
+        "utilization": 52.31,
+        "latency_ms": 22.5,
+        "packet_loss_percent": 0.22
+    },
+    {
+        "timestamp": 30,
+        "base_station_id": "BS2",
+        "active_users": 520,
+        "traffic_demand": 53.8,
+        "resource_capacity": 100,
+        "utilization": 53.79,
+        "latency_ms": 23.2,
+        "packet_loss_percent": 0.21
+    },
+    {
+        "timestamp": 30,
+        "base_station_id": "BS3",
+        "active_users": 483,
+        "traffic_demand": 51.6,
+        "resource_capacity": 100,
+        "utilization": 51.65,
+        "latency_ms": 20.1,
+        "packet_loss_percent": 0.28
+    },
+    {
+        "timestamp": 30,
+        "base_station_id": "BS4",
+        "active_users": 505,
+        "traffic_demand": 51.2,
+        "resource_capacity": 100,
+        "utilization": 51.19,
+        "latency_ms": 20.0,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 30,
+        "base_station_id": "BS5",
+        "active_users": 519,
+        "traffic_demand": 53.5,
+        "resource_capacity": 100,
+        "utilization": 53.54,
+        "latency_ms": 23.4,
+        "packet_loss_percent": 0.23
+    },
+    {
+        "timestamp": 30,
+        "base_station_id": "BS6",
+        "active_users": 495,
+        "traffic_demand": 53.8,
+        "resource_capacity": 100,
+        "utilization": 53.83,
+        "latency_ms": 22.7,
+        "packet_loss_percent": 0.22
+    },
+    {
+        "timestamp": 31,
+        "base_station_id": "BS1",
+        "active_users": 504,
+        "traffic_demand": 53.9,
+        "resource_capacity": 100,
+        "utilization": 53.93,
+        "latency_ms": 22.2,
+        "packet_loss_percent": 0.22
+    },
+    {
+        "timestamp": 31,
+        "base_station_id": "BS2",
+        "active_users": 496,
+        "traffic_demand": 52.1,
+        "resource_capacity": 100,
+        "utilization": 52.08,
+        "latency_ms": 21.2,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 31,
+        "base_station_id": "BS3",
+        "active_users": 489,
+        "traffic_demand": 52.0,
+        "resource_capacity": 100,
+        "utilization": 51.97,
+        "latency_ms": 19.8,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 31,
+        "base_station_id": "BS4",
+        "active_users": 495,
+        "traffic_demand": 51.0,
+        "resource_capacity": 100,
+        "utilization": 50.97,
+        "latency_ms": 19.8,
+        "packet_loss_percent": 0.29
+    },
+    {
+        "timestamp": 31,
+        "base_station_id": "BS5",
+        "active_users": 494,
+        "traffic_demand": 50.1,
+        "resource_capacity": 100,
+        "utilization": 50.07,
+        "latency_ms": 19.8,
+        "packet_loss_percent": 0.19
+    },
+    {
+        "timestamp": 31,
+        "base_station_id": "BS6",
+        "active_users": 500,
+        "traffic_demand": 54.6,
+        "resource_capacity": 100,
+        "utilization": 54.62,
+        "latency_ms": 21.6,
+        "packet_loss_percent": 0.23
+    },
+    {
+        "timestamp": 32,
+        "base_station_id": "BS1",
+        "active_users": 485,
+        "traffic_demand": 51.3,
+        "resource_capacity": 100,
+        "utilization": 51.32,
+        "latency_ms": 21.7,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 32,
+        "base_station_id": "BS2",
+        "active_users": 478,
+        "traffic_demand": 49.9,
+        "resource_capacity": 100,
+        "utilization": 49.89,
+        "latency_ms": 18.6,
+        "packet_loss_percent": 0.28
+    },
+    {
+        "timestamp": 32,
+        "base_station_id": "BS3",
+        "active_users": 506,
+        "traffic_demand": 53.7,
+        "resource_capacity": 100,
+        "utilization": 53.67,
+        "latency_ms": 22.0,
+        "packet_loss_percent": 0.21
+    },
+    {
+        "timestamp": 32,
+        "base_station_id": "BS4",
+        "active_users": 481,
+        "traffic_demand": 48.4,
+        "resource_capacity": 100,
+        "utilization": 48.45,
+        "latency_ms": 18.8,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 32,
+        "base_station_id": "BS5",
+        "active_users": 499,
+        "traffic_demand": 50.8,
+        "resource_capacity": 100,
+        "utilization": 50.78,
+        "latency_ms": 20.1,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 32,
+        "base_station_id": "BS6",
+        "active_users": 489,
+        "traffic_demand": 50.2,
+        "resource_capacity": 100,
+        "utilization": 50.17,
+        "latency_ms": 19.7,
+        "packet_loss_percent": 0.15
+    },
+    {
+        "timestamp": 33,
+        "base_station_id": "BS1",
+        "active_users": 478,
+        "traffic_demand": 51.7,
+        "resource_capacity": 100,
+        "utilization": 51.67,
+        "latency_ms": 21.4,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 33,
+        "base_station_id": "BS2",
+        "active_users": 487,
+        "traffic_demand": 51.5,
+        "resource_capacity": 100,
+        "utilization": 51.48,
+        "latency_ms": 19.7,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 33,
+        "base_station_id": "BS3",
+        "active_users": 502,
+        "traffic_demand": 54.6,
+        "resource_capacity": 100,
+        "utilization": 54.58,
+        "latency_ms": 24.0,
+        "packet_loss_percent": 0.23
+    },
+    {
+        "timestamp": 33,
+        "base_station_id": "BS4",
+        "active_users": 489,
+        "traffic_demand": 53.6,
+        "resource_capacity": 100,
+        "utilization": 53.63,
+        "latency_ms": 21.7,
+        "packet_loss_percent": 0.27
+    },
+    {
+        "timestamp": 33,
+        "base_station_id": "BS5",
+        "active_users": 475,
+        "traffic_demand": 47.8,
+        "resource_capacity": 100,
+        "utilization": 47.79,
+        "latency_ms": 17.6,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 33,
+        "base_station_id": "BS6",
+        "active_users": 478,
+        "traffic_demand": 48.0,
+        "resource_capacity": 100,
+        "utilization": 48.02,
+        "latency_ms": 18.8,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 34,
+        "base_station_id": "BS1",
+        "active_users": 497,
+        "traffic_demand": 52.3,
+        "resource_capacity": 100,
+        "utilization": 52.33,
+        "latency_ms": 22.5,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 34,
+        "base_station_id": "BS2",
+        "active_users": 502,
+        "traffic_demand": 53.8,
+        "resource_capacity": 100,
+        "utilization": 53.77,
+        "latency_ms": 23.6,
+        "packet_loss_percent": 0.23
+    },
+    {
+        "timestamp": 34,
+        "base_station_id": "BS3",
+        "active_users": 457,
+        "traffic_demand": 49.1,
+        "resource_capacity": 100,
+        "utilization": 49.09,
+        "latency_ms": 19.2,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 34,
+        "base_station_id": "BS4",
+        "active_users": 478,
+        "traffic_demand": 50.8,
+        "resource_capacity": 100,
+        "utilization": 50.8,
+        "latency_ms": 20.3,
+        "packet_loss_percent": 0.26
+    },
+    {
+        "timestamp": 34,
+        "base_station_id": "BS5",
+        "active_users": 502,
+        "traffic_demand": 53.4,
+        "resource_capacity": 100,
+        "utilization": 53.38,
+        "latency_ms": 21.7,
+        "packet_loss_percent": 0.2
+    },
+    {
+        "timestamp": 34,
+        "base_station_id": "BS6",
+        "active_users": 503,
+        "traffic_demand": 51.2,
+        "resource_capacity": 100,
+        "utilization": 51.2,
+        "latency_ms": 20.5,
+        "packet_loss_percent": 0.26
+    },
+    {
+        "timestamp": 35,
+        "base_station_id": "BS1",
+        "active_users": 493,
+        "traffic_demand": 50.9,
+        "resource_capacity": 100,
+        "utilization": 50.86,
+        "latency_ms": 19.2,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 35,
+        "base_station_id": "BS2",
+        "active_users": 466,
+        "traffic_demand": 47.4,
+        "resource_capacity": 100,
+        "utilization": 47.43,
+        "latency_ms": 18.9,
+        "packet_loss_percent": 0.23
+    },
+    {
+        "timestamp": 35,
+        "base_station_id": "BS3",
+        "active_users": 465,
+        "traffic_demand": 47.9,
+        "resource_capacity": 100,
+        "utilization": 47.86,
+        "latency_ms": 19.4,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 35,
+        "base_station_id": "BS4",
+        "active_users": 480,
+        "traffic_demand": 48.2,
+        "resource_capacity": 100,
+        "utilization": 48.24,
+        "latency_ms": 17.6,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 35,
+        "base_station_id": "BS5",
+        "active_users": 457,
+        "traffic_demand": 46.6,
+        "resource_capacity": 100,
+        "utilization": 46.63,
+        "latency_ms": 18.1,
+        "packet_loss_percent": 0.25
+    },
+    {
+        "timestamp": 35,
+        "base_station_id": "BS6",
+        "active_users": 479,
+        "traffic_demand": 51.7,
+        "resource_capacity": 100,
+        "utilization": 51.71,
+        "latency_ms": 21.0,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 36,
+        "base_station_id": "BS1",
+        "active_users": 443,
+        "traffic_demand": 48.2,
+        "resource_capacity": 100,
+        "utilization": 48.22,
+        "latency_ms": 18.1,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 36,
+        "base_station_id": "BS2",
+        "active_users": 438,
+        "traffic_demand": 47.6,
+        "resource_capacity": 100,
+        "utilization": 47.57,
+        "latency_ms": 18.3,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 36,
+        "base_station_id": "BS3",
+        "active_users": 452,
+        "traffic_demand": 49.4,
+        "resource_capacity": 100,
+        "utilization": 49.43,
+        "latency_ms": 18.4,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 36,
+        "base_station_id": "BS4",
+        "active_users": 483,
+        "traffic_demand": 50.0,
+        "resource_capacity": 100,
+        "utilization": 49.96,
+        "latency_ms": 19.7,
+        "packet_loss_percent": 0.2
+    },
+    {
+        "timestamp": 36,
+        "base_station_id": "BS5",
+        "active_users": 456,
+        "traffic_demand": 49.2,
+        "resource_capacity": 100,
+        "utilization": 49.16,
+        "latency_ms": 20.2,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 36,
+        "base_station_id": "BS6",
+        "active_users": 449,
+        "traffic_demand": 46.8,
+        "resource_capacity": 100,
+        "utilization": 46.8,
+        "latency_ms": 18.3,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 37,
+        "base_station_id": "BS1",
+        "active_users": 439,
+        "traffic_demand": 47.6,
+        "resource_capacity": 100,
+        "utilization": 47.6,
+        "latency_ms": 18.7,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 37,
+        "base_station_id": "BS2",
+        "active_users": 428,
+        "traffic_demand": 43.2,
+        "resource_capacity": 100,
+        "utilization": 43.22,
+        "latency_ms": 17.2,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 37,
+        "base_station_id": "BS3",
+        "active_users": 464,
+        "traffic_demand": 46.5,
+        "resource_capacity": 100,
+        "utilization": 46.46,
+        "latency_ms": 18.2,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 37,
+        "base_station_id": "BS4",
+        "active_users": 459,
+        "traffic_demand": 48.1,
+        "resource_capacity": 100,
+        "utilization": 48.09,
+        "latency_ms": 18.4,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 37,
+        "base_station_id": "BS5",
+        "active_users": 471,
+        "traffic_demand": 50.3,
+        "resource_capacity": 100,
+        "utilization": 50.31,
+        "latency_ms": 20.3,
+        "packet_loss_percent": 0.28
+    },
+    {
+        "timestamp": 37,
+        "base_station_id": "BS6",
+        "active_users": 454,
+        "traffic_demand": 47.3,
+        "resource_capacity": 100,
+        "utilization": 47.27,
+        "latency_ms": 18.1,
+        "packet_loss_percent": 0.23
+    },
+    {
+        "timestamp": 38,
+        "base_station_id": "BS1",
+        "active_users": 451,
+        "traffic_demand": 45.8,
+        "resource_capacity": 100,
+        "utilization": 45.76,
+        "latency_ms": 18.2,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 38,
+        "base_station_id": "BS2",
+        "active_users": 465,
+        "traffic_demand": 51.2,
+        "resource_capacity": 100,
+        "utilization": 51.17,
+        "latency_ms": 22.4,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 38,
+        "base_station_id": "BS3",
+        "active_users": 468,
+        "traffic_demand": 51.6,
+        "resource_capacity": 100,
+        "utilization": 51.56,
+        "latency_ms": 21.4,
+        "packet_loss_percent": 0.21
+    },
+    {
+        "timestamp": 38,
+        "base_station_id": "BS4",
+        "active_users": 423,
+        "traffic_demand": 46.5,
+        "resource_capacity": 100,
+        "utilization": 46.48,
+        "latency_ms": 18.4,
+        "packet_loss_percent": 0.15
+    },
+    {
+        "timestamp": 38,
+        "base_station_id": "BS5",
+        "active_users": 450,
+        "traffic_demand": 49.3,
+        "resource_capacity": 100,
+        "utilization": 49.25,
+        "latency_ms": 18.1,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 38,
+        "base_station_id": "BS6",
+        "active_users": 441,
+        "traffic_demand": 44.3,
+        "resource_capacity": 100,
+        "utilization": 44.29,
+        "latency_ms": 17.1,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 39,
+        "base_station_id": "BS1",
+        "active_users": 443,
+        "traffic_demand": 46.2,
+        "resource_capacity": 100,
+        "utilization": 46.19,
+        "latency_ms": 17.4,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 39,
+        "base_station_id": "BS2",
+        "active_users": 449,
+        "traffic_demand": 47.0,
+        "resource_capacity": 100,
+        "utilization": 47.05,
+        "latency_ms": 17.7,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 39,
+        "base_station_id": "BS3",
+        "active_users": 478,
+        "traffic_demand": 51.2,
+        "resource_capacity": 100,
+        "utilization": 51.21,
+        "latency_ms": 20.4,
+        "packet_loss_percent": 0.32
+    },
+    {
+        "timestamp": 39,
+        "base_station_id": "BS4",
+        "active_users": 439,
+        "traffic_demand": 47.2,
+        "resource_capacity": 100,
+        "utilization": 47.22,
+        "latency_ms": 18.3,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 39,
+        "base_station_id": "BS5",
+        "active_users": 444,
+        "traffic_demand": 49.0,
+        "resource_capacity": 100,
+        "utilization": 48.98,
+        "latency_ms": 20.6,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 39,
+        "base_station_id": "BS6",
+        "active_users": 468,
+        "traffic_demand": 50.8,
+        "resource_capacity": 100,
+        "utilization": 50.83,
+        "latency_ms": 20.3,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 40,
+        "base_station_id": "BS1",
+        "active_users": 414,
+        "traffic_demand": 43.8,
+        "resource_capacity": 100,
+        "utilization": 43.84,
+        "latency_ms": 16.6,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 40,
+        "base_station_id": "BS2",
+        "active_users": 415,
+        "traffic_demand": 44.7,
+        "resource_capacity": 100,
+        "utilization": 44.72,
+        "latency_ms": 17.5,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 40,
+        "base_station_id": "BS3",
+        "active_users": 453,
+        "traffic_demand": 49.3,
+        "resource_capacity": 100,
+        "utilization": 49.27,
+        "latency_ms": 19.7,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 40,
+        "base_station_id": "BS4",
+        "active_users": 437,
+        "traffic_demand": 47.9,
+        "resource_capacity": 100,
+        "utilization": 47.88,
+        "latency_ms": 18.5,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 40,
+        "base_station_id": "BS5",
+        "active_users": 432,
+        "traffic_demand": 45.1,
+        "resource_capacity": 100,
+        "utilization": 45.06,
+        "latency_ms": 19.0,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 40,
+        "base_station_id": "BS6",
+        "active_users": 434,
+        "traffic_demand": 47.9,
+        "resource_capacity": 100,
+        "utilization": 47.93,
+        "latency_ms": 18.7,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 41,
+        "base_station_id": "BS1",
+        "active_users": 421,
+        "traffic_demand": 45.1,
+        "resource_capacity": 100,
+        "utilization": 45.1,
+        "latency_ms": 15.8,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 41,
+        "base_station_id": "BS2",
+        "active_users": 456,
+        "traffic_demand": 46.1,
+        "resource_capacity": 100,
+        "utilization": 46.09,
+        "latency_ms": 18.0,
+        "packet_loss_percent": 0.15
+    },
+    {
+        "timestamp": 41,
+        "base_station_id": "BS3",
+        "active_users": 455,
+        "traffic_demand": 47.7,
+        "resource_capacity": 100,
+        "utilization": 47.66,
+        "latency_ms": 17.9,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 41,
+        "base_station_id": "BS4",
+        "active_users": 430,
+        "traffic_demand": 47.1,
+        "resource_capacity": 100,
+        "utilization": 47.06,
+        "latency_ms": 17.1,
+        "packet_loss_percent": 0.27
+    },
+    {
+        "timestamp": 41,
+        "base_station_id": "BS5",
+        "active_users": 444,
+        "traffic_demand": 46.0,
+        "resource_capacity": 100,
+        "utilization": 46.01,
+        "latency_ms": 17.9,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 41,
+        "base_station_id": "BS6",
+        "active_users": 417,
+        "traffic_demand": 45.5,
+        "resource_capacity": 100,
+        "utilization": 45.48,
+        "latency_ms": 15.4,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 42,
+        "base_station_id": "BS1",
+        "active_users": 437,
+        "traffic_demand": 45.6,
+        "resource_capacity": 100,
+        "utilization": 45.61,
+        "latency_ms": 16.1,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 42,
+        "base_station_id": "BS2",
+        "active_users": 402,
+        "traffic_demand": 44.5,
+        "resource_capacity": 100,
+        "utilization": 44.48,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 42,
+        "base_station_id": "BS3",
+        "active_users": 420,
+        "traffic_demand": 44.5,
+        "resource_capacity": 100,
+        "utilization": 44.46,
+        "latency_ms": 17.2,
+        "packet_loss_percent": 0.22
+    },
+    {
+        "timestamp": 42,
+        "base_station_id": "BS4",
+        "active_users": 421,
+        "traffic_demand": 45.2,
+        "resource_capacity": 100,
+        "utilization": 45.21,
+        "latency_ms": 18.0,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 42,
+        "base_station_id": "BS5",
+        "active_users": 417,
+        "traffic_demand": 43.4,
+        "resource_capacity": 100,
+        "utilization": 43.38,
+        "latency_ms": 18.9,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 42,
+        "base_station_id": "BS6",
+        "active_users": 423,
+        "traffic_demand": 46.0,
+        "resource_capacity": 100,
+        "utilization": 45.99,
+        "latency_ms": 18.2,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 43,
+        "base_station_id": "BS1",
+        "active_users": 404,
+        "traffic_demand": 40.9,
+        "resource_capacity": 100,
+        "utilization": 40.89,
+        "latency_ms": 17.6,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 43,
+        "base_station_id": "BS2",
+        "active_users": 412,
+        "traffic_demand": 44.9,
+        "resource_capacity": 100,
+        "utilization": 44.88,
+        "latency_ms": 18.1,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 43,
+        "base_station_id": "BS3",
+        "active_users": 451,
+        "traffic_demand": 47.6,
+        "resource_capacity": 100,
+        "utilization": 47.6,
+        "latency_ms": 18.5,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 43,
+        "base_station_id": "BS4",
+        "active_users": 430,
+        "traffic_demand": 43.4,
+        "resource_capacity": 100,
+        "utilization": 43.39,
+        "latency_ms": 17.9,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 43,
+        "base_station_id": "BS5",
+        "active_users": 402,
+        "traffic_demand": 42.5,
+        "resource_capacity": 100,
+        "utilization": 42.5,
+        "latency_ms": 18.1,
+        "packet_loss_percent": 0.21
+    },
+    {
+        "timestamp": 43,
+        "base_station_id": "BS6",
+        "active_users": 441,
+        "traffic_demand": 44.2,
+        "resource_capacity": 100,
+        "utilization": 44.21,
+        "latency_ms": 17.9,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 44,
+        "base_station_id": "BS1",
+        "active_users": 430,
+        "traffic_demand": 43.4,
+        "resource_capacity": 100,
+        "utilization": 43.39,
+        "latency_ms": 18.8,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 44,
+        "base_station_id": "BS2",
+        "active_users": 457,
+        "traffic_demand": 47.8,
+        "resource_capacity": 100,
+        "utilization": 47.76,
+        "latency_ms": 18.0,
+        "packet_loss_percent": 0.19
+    },
+    {
+        "timestamp": 44,
+        "base_station_id": "BS3",
+        "active_users": 416,
+        "traffic_demand": 43.3,
+        "resource_capacity": 100,
+        "utilization": 43.33,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 44,
+        "base_station_id": "BS4",
+        "active_users": 435,
+        "traffic_demand": 46.3,
+        "resource_capacity": 100,
+        "utilization": 46.28,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 44,
+        "base_station_id": "BS5",
+        "active_users": 437,
+        "traffic_demand": 43.9,
+        "resource_capacity": 100,
+        "utilization": 43.87,
+        "latency_ms": 17.7,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 44,
+        "base_station_id": "BS6",
+        "active_users": 423,
+        "traffic_demand": 45.5,
+        "resource_capacity": 100,
+        "utilization": 45.51,
+        "latency_ms": 18.5,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 45,
+        "base_station_id": "BS1",
+        "active_users": 409,
+        "traffic_demand": 43.9,
+        "resource_capacity": 100,
+        "utilization": 43.88,
+        "latency_ms": 17.3,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 45,
+        "base_station_id": "BS2",
+        "active_users": 406,
+        "traffic_demand": 44.8,
+        "resource_capacity": 100,
+        "utilization": 44.77,
+        "latency_ms": 17.4,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 45,
+        "base_station_id": "BS3",
+        "active_users": 432,
+        "traffic_demand": 47.4,
+        "resource_capacity": 100,
+        "utilization": 47.38,
+        "latency_ms": 18.7,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 45,
+        "base_station_id": "BS4",
+        "active_users": 418,
+        "traffic_demand": 42.2,
+        "resource_capacity": 100,
+        "utilization": 42.23,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 45,
+        "base_station_id": "BS5",
+        "active_users": 430,
+        "traffic_demand": 46.4,
+        "resource_capacity": 100,
+        "utilization": 46.42,
+        "latency_ms": 17.6,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 45,
+        "base_station_id": "BS6",
+        "active_users": 458,
+        "traffic_demand": 46.0,
+        "resource_capacity": 100,
+        "utilization": 46.04,
+        "latency_ms": 17.4,
+        "packet_loss_percent": 0.24
+    },
+    {
+        "timestamp": 46,
+        "base_station_id": "BS1",
+        "active_users": 417,
+        "traffic_demand": 43.6,
+        "resource_capacity": 100,
+        "utilization": 43.56,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 46,
+        "base_station_id": "BS2",
+        "active_users": 411,
+        "traffic_demand": 44.9,
+        "resource_capacity": 100,
+        "utilization": 44.91,
+        "latency_ms": 18.1,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 46,
+        "base_station_id": "BS3",
+        "active_users": 394,
+        "traffic_demand": 41.4,
+        "resource_capacity": 100,
+        "utilization": 41.38,
+        "latency_ms": 17.2,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 46,
+        "base_station_id": "BS4",
+        "active_users": 397,
+        "traffic_demand": 43.6,
+        "resource_capacity": 100,
+        "utilization": 43.58,
+        "latency_ms": 17.1,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 46,
+        "base_station_id": "BS5",
+        "active_users": 391,
+        "traffic_demand": 41.1,
+        "resource_capacity": 100,
+        "utilization": 41.15,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 46,
+        "base_station_id": "BS6",
+        "active_users": 403,
+        "traffic_demand": 41.1,
+        "resource_capacity": 100,
+        "utilization": 41.09,
+        "latency_ms": 16.5,
+        "packet_loss_percent": 0.15
+    },
+    {
+        "timestamp": 47,
+        "base_station_id": "BS1",
+        "active_users": 413,
+        "traffic_demand": 45.0,
+        "resource_capacity": 100,
+        "utilization": 45.0,
+        "latency_ms": 18.0,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 47,
+        "base_station_id": "BS2",
+        "active_users": 423,
+        "traffic_demand": 42.4,
+        "resource_capacity": 100,
+        "utilization": 42.35,
+        "latency_ms": 17.3,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 47,
+        "base_station_id": "BS3",
+        "active_users": 428,
+        "traffic_demand": 43.0,
+        "resource_capacity": 100,
+        "utilization": 43.02,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 47,
+        "base_station_id": "BS4",
+        "active_users": 419,
+        "traffic_demand": 44.9,
+        "resource_capacity": 100,
+        "utilization": 44.94,
+        "latency_ms": 18.1,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 47,
+        "base_station_id": "BS5",
+        "active_users": 384,
+        "traffic_demand": 42.2,
+        "resource_capacity": 100,
+        "utilization": 42.18,
+        "latency_ms": 17.5,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 47,
+        "base_station_id": "BS6",
+        "active_users": 411,
+        "traffic_demand": 44.4,
+        "resource_capacity": 100,
+        "utilization": 44.38,
+        "latency_ms": 18.7,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 48,
+        "base_station_id": "BS1",
+        "active_users": 389,
+        "traffic_demand": 41.8,
+        "resource_capacity": 100,
+        "utilization": 41.8,
+        "latency_ms": 17.2,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 48,
+        "base_station_id": "BS2",
+        "active_users": 404,
+        "traffic_demand": 43.5,
+        "resource_capacity": 100,
+        "utilization": 43.46,
+        "latency_ms": 16.9,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 48,
+        "base_station_id": "BS3",
+        "active_users": 390,
+        "traffic_demand": 41.4,
+        "resource_capacity": 100,
+        "utilization": 41.36,
+        "latency_ms": 16.9,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 48,
+        "base_station_id": "BS4",
+        "active_users": 405,
+        "traffic_demand": 41.6,
+        "resource_capacity": 100,
+        "utilization": 41.64,
+        "latency_ms": 17.7,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 48,
+        "base_station_id": "BS5",
+        "active_users": 375,
+        "traffic_demand": 41.1,
+        "resource_capacity": 100,
+        "utilization": 41.1,
+        "latency_ms": 18.0,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 48,
+        "base_station_id": "BS6",
+        "active_users": 397,
+        "traffic_demand": 40.4,
+        "resource_capacity": 100,
+        "utilization": 40.4,
+        "latency_ms": 15.3,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 49,
+        "base_station_id": "BS1",
+        "active_users": 350,
+        "traffic_demand": 36.5,
+        "resource_capacity": 100,
+        "utilization": 36.48,
+        "latency_ms": 17.2,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 49,
+        "base_station_id": "BS2",
+        "active_users": 404,
+        "traffic_demand": 43.8,
+        "resource_capacity": 100,
+        "utilization": 43.78,
+        "latency_ms": 17.7,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 49,
+        "base_station_id": "BS3",
+        "active_users": 388,
+        "traffic_demand": 39.4,
+        "resource_capacity": 100,
+        "utilization": 39.45,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 49,
+        "base_station_id": "BS4",
+        "active_users": 415,
+        "traffic_demand": 41.6,
+        "resource_capacity": 100,
+        "utilization": 41.64,
+        "latency_ms": 18.5,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 49,
+        "base_station_id": "BS5",
+        "active_users": 415,
+        "traffic_demand": 44.1,
+        "resource_capacity": 100,
+        "utilization": 44.11,
+        "latency_ms": 18.4,
+        "packet_loss_percent": 0.26
+    },
+    {
+        "timestamp": 49,
+        "base_station_id": "BS6",
+        "active_users": 400,
+        "traffic_demand": 40.6,
+        "resource_capacity": 100,
+        "utilization": 40.61,
+        "latency_ms": 18.4,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 50,
+        "base_station_id": "BS1",
+        "active_users": 397,
+        "traffic_demand": 41.8,
+        "resource_capacity": 100,
+        "utilization": 41.77,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 50,
+        "base_station_id": "BS2",
+        "active_users": 395,
+        "traffic_demand": 41.2,
+        "resource_capacity": 100,
+        "utilization": 41.18,
+        "latency_ms": 15.9,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 50,
+        "base_station_id": "BS3",
+        "active_users": 397,
+        "traffic_demand": 40.3,
+        "resource_capacity": 100,
+        "utilization": 40.28,
+        "latency_ms": 16.1,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 50,
+        "base_station_id": "BS4",
+        "active_users": 392,
+        "traffic_demand": 39.6,
+        "resource_capacity": 100,
+        "utilization": 39.57,
+        "latency_ms": 13.5,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 50,
+        "base_station_id": "BS5",
+        "active_users": 384,
+        "traffic_demand": 41.5,
+        "resource_capacity": 100,
+        "utilization": 41.49,
+        "latency_ms": 16.5,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 50,
+        "base_station_id": "BS6",
+        "active_users": 382,
+        "traffic_demand": 39.2,
+        "resource_capacity": 100,
+        "utilization": 39.18,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 51,
+        "base_station_id": "BS1",
+        "active_users": 363,
+        "traffic_demand": 39.3,
+        "resource_capacity": 100,
+        "utilization": 39.33,
+        "latency_ms": 17.3,
+        "packet_loss_percent": 0.19
+    },
+    {
+        "timestamp": 51,
+        "base_station_id": "BS2",
+        "active_users": 394,
+        "traffic_demand": 43.4,
+        "resource_capacity": 100,
+        "utilization": 43.36,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 51,
+        "base_station_id": "BS3",
+        "active_users": 407,
+        "traffic_demand": 41.3,
+        "resource_capacity": 100,
+        "utilization": 41.32,
+        "latency_ms": 15.6,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 51,
+        "base_station_id": "BS4",
+        "active_users": 373,
+        "traffic_demand": 40.8,
+        "resource_capacity": 100,
+        "utilization": 40.84,
+        "latency_ms": 15.7,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 51,
+        "base_station_id": "BS5",
+        "active_users": 402,
+        "traffic_demand": 41.4,
+        "resource_capacity": 100,
+        "utilization": 41.44,
+        "latency_ms": 17.9,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 51,
+        "base_station_id": "BS6",
+        "active_users": 375,
+        "traffic_demand": 37.6,
+        "resource_capacity": 100,
+        "utilization": 37.64,
+        "latency_ms": 16.6,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 52,
+        "base_station_id": "BS1",
+        "active_users": 393,
+        "traffic_demand": 42.1,
+        "resource_capacity": 100,
+        "utilization": 42.06,
+        "latency_ms": 16.6,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 52,
+        "base_station_id": "BS2",
+        "active_users": 398,
+        "traffic_demand": 41.8,
+        "resource_capacity": 100,
+        "utilization": 41.79,
+        "latency_ms": 17.7,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 52,
+        "base_station_id": "BS3",
+        "active_users": 381,
+        "traffic_demand": 39.4,
+        "resource_capacity": 100,
+        "utilization": 39.45,
+        "latency_ms": 17.6,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 52,
+        "base_station_id": "BS4",
+        "active_users": 421,
+        "traffic_demand": 44.4,
+        "resource_capacity": 100,
+        "utilization": 44.43,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.2
+    },
+    {
+        "timestamp": 52,
+        "base_station_id": "BS5",
+        "active_users": 378,
+        "traffic_demand": 41.6,
+        "resource_capacity": 100,
+        "utilization": 41.55,
+        "latency_ms": 15.4,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 52,
+        "base_station_id": "BS6",
+        "active_users": 373,
+        "traffic_demand": 39.6,
+        "resource_capacity": 100,
+        "utilization": 39.65,
+        "latency_ms": 16.1,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 53,
+        "base_station_id": "BS1",
+        "active_users": 370,
+        "traffic_demand": 39.0,
+        "resource_capacity": 100,
+        "utilization": 39.05,
+        "latency_ms": 16.5,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 53,
+        "base_station_id": "BS2",
+        "active_users": 375,
+        "traffic_demand": 38.6,
+        "resource_capacity": 100,
+        "utilization": 38.62,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 53,
+        "base_station_id": "BS3",
+        "active_users": 371,
+        "traffic_demand": 40.6,
+        "resource_capacity": 100,
+        "utilization": 40.65,
+        "latency_ms": 16.6,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 53,
+        "base_station_id": "BS4",
+        "active_users": 373,
+        "traffic_demand": 38.7,
+        "resource_capacity": 100,
+        "utilization": 38.7,
+        "latency_ms": 15.7,
+        "packet_loss_percent": 0.21
+    },
+    {
+        "timestamp": 53,
+        "base_station_id": "BS5",
+        "active_users": 368,
+        "traffic_demand": 37.9,
+        "resource_capacity": 100,
+        "utilization": 37.89,
+        "latency_ms": 16.1,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 53,
+        "base_station_id": "BS6",
+        "active_users": 394,
+        "traffic_demand": 42.6,
+        "resource_capacity": 100,
+        "utilization": 42.6,
+        "latency_ms": 17.5,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 54,
+        "base_station_id": "BS1",
+        "active_users": 382,
+        "traffic_demand": 41.0,
+        "resource_capacity": 100,
+        "utilization": 40.99,
+        "latency_ms": 15.9,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 54,
+        "base_station_id": "BS2",
+        "active_users": 395,
+        "traffic_demand": 40.8,
+        "resource_capacity": 100,
+        "utilization": 40.84,
+        "latency_ms": 17.1,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 54,
+        "base_station_id": "BS3",
+        "active_users": 391,
+        "traffic_demand": 42.8,
+        "resource_capacity": 100,
+        "utilization": 42.8,
+        "latency_ms": 18.5,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 54,
+        "base_station_id": "BS4",
+        "active_users": 372,
+        "traffic_demand": 40.4,
+        "resource_capacity": 100,
+        "utilization": 40.4,
+        "latency_ms": 16.9,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 54,
+        "base_station_id": "BS5",
+        "active_users": 370,
+        "traffic_demand": 38.0,
+        "resource_capacity": 100,
+        "utilization": 37.97,
+        "latency_ms": 15.3,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 54,
+        "base_station_id": "BS6",
+        "active_users": 381,
+        "traffic_demand": 40.5,
+        "resource_capacity": 100,
+        "utilization": 40.47,
+        "latency_ms": 16.1,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 55,
+        "base_station_id": "BS1",
+        "active_users": 368,
+        "traffic_demand": 40.6,
+        "resource_capacity": 100,
+        "utilization": 40.61,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 55,
+        "base_station_id": "BS2",
+        "active_users": 337,
+        "traffic_demand": 33.8,
+        "resource_capacity": 100,
+        "utilization": 33.79,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.24
+    },
+    {
+        "timestamp": 55,
+        "base_station_id": "BS3",
+        "active_users": 392,
+        "traffic_demand": 43.3,
+        "resource_capacity": 100,
+        "utilization": 43.33,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 55,
+        "base_station_id": "BS4",
+        "active_users": 371,
+        "traffic_demand": 39.4,
+        "resource_capacity": 100,
+        "utilization": 39.37,
+        "latency_ms": 16.5,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 55,
+        "base_station_id": "BS5",
+        "active_users": 339,
+        "traffic_demand": 36.1,
+        "resource_capacity": 100,
+        "utilization": 36.07,
+        "latency_ms": 17.2,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 55,
+        "base_station_id": "BS6",
+        "active_users": 379,
+        "traffic_demand": 38.5,
+        "resource_capacity": 100,
+        "utilization": 38.45,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 56,
+        "base_station_id": "BS1",
+        "active_users": 376,
+        "traffic_demand": 41.0,
+        "resource_capacity": 100,
+        "utilization": 40.97,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 56,
+        "base_station_id": "BS2",
+        "active_users": 393,
+        "traffic_demand": 40.4,
+        "resource_capacity": 100,
+        "utilization": 40.43,
+        "latency_ms": 17.1,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 56,
+        "base_station_id": "BS3",
+        "active_users": 370,
+        "traffic_demand": 40.5,
+        "resource_capacity": 100,
+        "utilization": 40.54,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 56,
+        "base_station_id": "BS4",
+        "active_users": 373,
+        "traffic_demand": 38.7,
+        "resource_capacity": 100,
+        "utilization": 38.69,
+        "latency_ms": 15.8,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 56,
+        "base_station_id": "BS5",
+        "active_users": 364,
+        "traffic_demand": 38.8,
+        "resource_capacity": 100,
+        "utilization": 38.84,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 56,
+        "base_station_id": "BS6",
+        "active_users": 369,
+        "traffic_demand": 39.1,
+        "resource_capacity": 100,
+        "utilization": 39.09,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 57,
+        "base_station_id": "BS1",
+        "active_users": 359,
+        "traffic_demand": 36.8,
+        "resource_capacity": 100,
+        "utilization": 36.76,
+        "latency_ms": 15.8,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 57,
+        "base_station_id": "BS2",
+        "active_users": 345,
+        "traffic_demand": 35.3,
+        "resource_capacity": 100,
+        "utilization": 35.27,
+        "latency_ms": 14.1,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 57,
+        "base_station_id": "BS3",
+        "active_users": 392,
+        "traffic_demand": 43.3,
+        "resource_capacity": 100,
+        "utilization": 43.27,
+        "latency_ms": 18.1,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 57,
+        "base_station_id": "BS4",
+        "active_users": 388,
+        "traffic_demand": 39.3,
+        "resource_capacity": 100,
+        "utilization": 39.27,
+        "latency_ms": 16.8,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 57,
+        "base_station_id": "BS5",
+        "active_users": 362,
+        "traffic_demand": 36.9,
+        "resource_capacity": 100,
+        "utilization": 36.95,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 57,
+        "base_station_id": "BS6",
+        "active_users": 378,
+        "traffic_demand": 38.8,
+        "resource_capacity": 100,
+        "utilization": 38.81,
+        "latency_ms": 15.9,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 58,
+        "base_station_id": "BS1",
+        "active_users": 356,
+        "traffic_demand": 36.5,
+        "resource_capacity": 100,
+        "utilization": 36.48,
+        "latency_ms": 15.5,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 58,
+        "base_station_id": "BS2",
+        "active_users": 372,
+        "traffic_demand": 40.0,
+        "resource_capacity": 100,
+        "utilization": 40.04,
+        "latency_ms": 15.0,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 58,
+        "base_station_id": "BS3",
+        "active_users": 353,
+        "traffic_demand": 36.7,
+        "resource_capacity": 100,
+        "utilization": 36.74,
+        "latency_ms": 17.0,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 58,
+        "base_station_id": "BS4",
+        "active_users": 365,
+        "traffic_demand": 40.0,
+        "resource_capacity": 100,
+        "utilization": 39.97,
+        "latency_ms": 14.8,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 58,
+        "base_station_id": "BS5",
+        "active_users": 355,
+        "traffic_demand": 37.4,
+        "resource_capacity": 100,
+        "utilization": 37.44,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 58,
+        "base_station_id": "BS6",
+        "active_users": 349,
+        "traffic_demand": 37.2,
+        "resource_capacity": 100,
+        "utilization": 37.21,
+        "latency_ms": 15.1,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 59,
+        "base_station_id": "BS1",
+        "active_users": 347,
+        "traffic_demand": 36.1,
+        "resource_capacity": 100,
+        "utilization": 36.12,
+        "latency_ms": 15.1,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 59,
+        "base_station_id": "BS2",
+        "active_users": 356,
+        "traffic_demand": 36.8,
+        "resource_capacity": 100,
+        "utilization": 36.79,
+        "latency_ms": 15.5,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 59,
+        "base_station_id": "BS3",
+        "active_users": 363,
+        "traffic_demand": 38.6,
+        "resource_capacity": 100,
+        "utilization": 38.63,
+        "latency_ms": 17.0,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 59,
+        "base_station_id": "BS4",
+        "active_users": 366,
+        "traffic_demand": 40.3,
+        "resource_capacity": 100,
+        "utilization": 40.28,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.2
+    },
+    {
+        "timestamp": 59,
+        "base_station_id": "BS5",
+        "active_users": 340,
+        "traffic_demand": 35.4,
+        "resource_capacity": 100,
+        "utilization": 35.43,
+        "latency_ms": 16.5,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 59,
+        "base_station_id": "BS6",
+        "active_users": 378,
+        "traffic_demand": 39.8,
+        "resource_capacity": 100,
+        "utilization": 39.78,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 60,
+        "base_station_id": "BS1",
+        "active_users": 373,
+        "traffic_demand": 38.2,
+        "resource_capacity": 100,
+        "utilization": 38.22,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 60,
+        "base_station_id": "BS2",
+        "active_users": 401,
+        "traffic_demand": 42.2,
+        "resource_capacity": 100,
+        "utilization": 42.19,
+        "latency_ms": 17.9,
+        "packet_loss_percent": 0.22
+    },
+    {
+        "timestamp": 60,
+        "base_station_id": "BS3",
+        "active_users": 351,
+        "traffic_demand": 38.1,
+        "resource_capacity": 100,
+        "utilization": 38.1,
+        "latency_ms": 15.2,
+        "packet_loss_percent": 0.2
+    },
+    {
+        "timestamp": 60,
+        "base_station_id": "BS4",
+        "active_users": 329,
+        "traffic_demand": 34.2,
+        "resource_capacity": 100,
+        "utilization": 34.17,
+        "latency_ms": 15.8,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 60,
+        "base_station_id": "BS5",
+        "active_users": 369,
+        "traffic_demand": 39.6,
+        "resource_capacity": 100,
+        "utilization": 39.62,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 60,
+        "base_station_id": "BS6",
+        "active_users": 365,
+        "traffic_demand": 40.1,
+        "resource_capacity": 100,
+        "utilization": 40.12,
+        "latency_ms": 15.8,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 61,
+        "base_station_id": "BS1",
+        "active_users": 368,
+        "traffic_demand": 40.4,
+        "resource_capacity": 100,
+        "utilization": 40.42,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 61,
+        "base_station_id": "BS2",
+        "active_users": 373,
+        "traffic_demand": 39.4,
+        "resource_capacity": 100,
+        "utilization": 39.43,
+        "latency_ms": 16.5,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 61,
+        "base_station_id": "BS3",
+        "active_users": 381,
+        "traffic_demand": 41.3,
+        "resource_capacity": 100,
+        "utilization": 41.32,
+        "latency_ms": 17.3,
+        "packet_loss_percent": 0.26
+    },
+    {
+        "timestamp": 61,
+        "base_station_id": "BS4",
+        "active_users": 350,
+        "traffic_demand": 35.7,
+        "resource_capacity": 100,
+        "utilization": 35.73,
+        "latency_ms": 13.7,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 61,
+        "base_station_id": "BS5",
+        "active_users": 369,
+        "traffic_demand": 40.1,
+        "resource_capacity": 100,
+        "utilization": 40.11,
+        "latency_ms": 16.1,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 61,
+        "base_station_id": "BS6",
+        "active_users": 383,
+        "traffic_demand": 38.6,
+        "resource_capacity": 100,
+        "utilization": 38.6,
+        "latency_ms": 17.8,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 62,
+        "base_station_id": "BS1",
+        "active_users": 361,
+        "traffic_demand": 38.0,
+        "resource_capacity": 100,
+        "utilization": 37.96,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 62,
+        "base_station_id": "BS2",
+        "active_users": 334,
+        "traffic_demand": 34.0,
+        "resource_capacity": 100,
+        "utilization": 34.0,
+        "latency_ms": 16.5,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 62,
+        "base_station_id": "BS3",
+        "active_users": 388,
+        "traffic_demand": 41.9,
+        "resource_capacity": 100,
+        "utilization": 41.94,
+        "latency_ms": 17.0,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 62,
+        "base_station_id": "BS4",
+        "active_users": 358,
+        "traffic_demand": 37.7,
+        "resource_capacity": 100,
+        "utilization": 37.74,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 62,
+        "base_station_id": "BS5",
+        "active_users": 366,
+        "traffic_demand": 37.2,
+        "resource_capacity": 100,
+        "utilization": 37.21,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 62,
+        "base_station_id": "BS6",
+        "active_users": 336,
+        "traffic_demand": 35.7,
+        "resource_capacity": 100,
+        "utilization": 35.73,
+        "latency_ms": 15.8,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 63,
+        "base_station_id": "BS1",
+        "active_users": 359,
+        "traffic_demand": 36.9,
+        "resource_capacity": 100,
+        "utilization": 36.9,
+        "latency_ms": 16.5,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 63,
+        "base_station_id": "BS2",
+        "active_users": 336,
+        "traffic_demand": 33.9,
+        "resource_capacity": 100,
+        "utilization": 33.93,
+        "latency_ms": 15.8,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 63,
+        "base_station_id": "BS3",
+        "active_users": 330,
+        "traffic_demand": 35.4,
+        "resource_capacity": 100,
+        "utilization": 35.38,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 63,
+        "base_station_id": "BS4",
+        "active_users": 367,
+        "traffic_demand": 38.3,
+        "resource_capacity": 100,
+        "utilization": 38.34,
+        "latency_ms": 13.8,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 63,
+        "base_station_id": "BS5",
+        "active_users": 369,
+        "traffic_demand": 39.3,
+        "resource_capacity": 100,
+        "utilization": 39.3,
+        "latency_ms": 16.1,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 63,
+        "base_station_id": "BS6",
+        "active_users": 331,
+        "traffic_demand": 35.8,
+        "resource_capacity": 100,
+        "utilization": 35.81,
+        "latency_ms": 15.0,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 64,
+        "base_station_id": "BS1",
+        "active_users": 336,
+        "traffic_demand": 36.5,
+        "resource_capacity": 100,
+        "utilization": 36.5,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 64,
+        "base_station_id": "BS2",
+        "active_users": 373,
+        "traffic_demand": 38.8,
+        "resource_capacity": 100,
+        "utilization": 38.81,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 64,
+        "base_station_id": "BS3",
+        "active_users": 341,
+        "traffic_demand": 35.5,
+        "resource_capacity": 100,
+        "utilization": 35.51,
+        "latency_ms": 16.5,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 64,
+        "base_station_id": "BS4",
+        "active_users": 363,
+        "traffic_demand": 36.4,
+        "resource_capacity": 100,
+        "utilization": 36.39,
+        "latency_ms": 14.7,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 64,
+        "base_station_id": "BS5",
+        "active_users": 372,
+        "traffic_demand": 40.3,
+        "resource_capacity": 100,
+        "utilization": 40.32,
+        "latency_ms": 18.2,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 64,
+        "base_station_id": "BS6",
+        "active_users": 332,
+        "traffic_demand": 34.3,
+        "resource_capacity": 100,
+        "utilization": 34.3,
+        "latency_ms": 15.8,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 65,
+        "base_station_id": "BS1",
+        "active_users": 354,
+        "traffic_demand": 37.2,
+        "resource_capacity": 100,
+        "utilization": 37.25,
+        "latency_ms": 17.2,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 65,
+        "base_station_id": "BS2",
+        "active_users": 355,
+        "traffic_demand": 38.9,
+        "resource_capacity": 100,
+        "utilization": 38.85,
+        "latency_ms": 15.4,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 65,
+        "base_station_id": "BS3",
+        "active_users": 386,
+        "traffic_demand": 42.3,
+        "resource_capacity": 100,
+        "utilization": 42.31,
+        "latency_ms": 17.8,
+        "packet_loss_percent": 0.15
+    },
+    {
+        "timestamp": 65,
+        "base_station_id": "BS4",
+        "active_users": 346,
+        "traffic_demand": 34.8,
+        "resource_capacity": 100,
+        "utilization": 34.81,
+        "latency_ms": 14.9,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 65,
+        "base_station_id": "BS5",
+        "active_users": 342,
+        "traffic_demand": 36.4,
+        "resource_capacity": 100,
+        "utilization": 36.45,
+        "latency_ms": 15.2,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 65,
+        "base_station_id": "BS6",
+        "active_users": 366,
+        "traffic_demand": 38.5,
+        "resource_capacity": 100,
+        "utilization": 38.46,
+        "latency_ms": 18.2,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 66,
+        "base_station_id": "BS1",
+        "active_users": 336,
+        "traffic_demand": 34.3,
+        "resource_capacity": 100,
+        "utilization": 34.29,
+        "latency_ms": 15.9,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 66,
+        "base_station_id": "BS2",
+        "active_users": 345,
+        "traffic_demand": 38.2,
+        "resource_capacity": 100,
+        "utilization": 38.18,
+        "latency_ms": 17.2,
+        "packet_loss_percent": 0.17
+    },
+    {
+        "timestamp": 66,
+        "base_station_id": "BS3",
+        "active_users": 349,
+        "traffic_demand": 35.8,
+        "resource_capacity": 100,
+        "utilization": 35.76,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 66,
+        "base_station_id": "BS4",
+        "active_users": 349,
+        "traffic_demand": 36.4,
+        "resource_capacity": 100,
+        "utilization": 36.44,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 66,
+        "base_station_id": "BS5",
+        "active_users": 341,
+        "traffic_demand": 34.3,
+        "resource_capacity": 100,
+        "utilization": 34.29,
+        "latency_ms": 15.3,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 66,
+        "base_station_id": "BS6",
+        "active_users": 349,
+        "traffic_demand": 36.5,
+        "resource_capacity": 100,
+        "utilization": 36.52,
+        "latency_ms": 14.4,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 67,
+        "base_station_id": "BS1",
+        "active_users": 373,
+        "traffic_demand": 40.2,
+        "resource_capacity": 100,
+        "utilization": 40.2,
+        "latency_ms": 17.0,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 67,
+        "base_station_id": "BS2",
+        "active_users": 345,
+        "traffic_demand": 38.1,
+        "resource_capacity": 100,
+        "utilization": 38.1,
+        "latency_ms": 17.1,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 67,
+        "base_station_id": "BS3",
+        "active_users": 339,
+        "traffic_demand": 36.5,
+        "resource_capacity": 100,
+        "utilization": 36.52,
+        "latency_ms": 15.1,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 67,
+        "base_station_id": "BS4",
+        "active_users": 356,
+        "traffic_demand": 39.1,
+        "resource_capacity": 100,
+        "utilization": 39.06,
+        "latency_ms": 17.2,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 67,
+        "base_station_id": "BS5",
+        "active_users": 344,
+        "traffic_demand": 35.6,
+        "resource_capacity": 100,
+        "utilization": 35.55,
+        "latency_ms": 16.1,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 67,
+        "base_station_id": "BS6",
+        "active_users": 345,
+        "traffic_demand": 36.6,
+        "resource_capacity": 100,
+        "utilization": 36.58,
+        "latency_ms": 14.4,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 68,
+        "base_station_id": "BS1",
+        "active_users": 357,
+        "traffic_demand": 36.7,
+        "resource_capacity": 100,
+        "utilization": 36.66,
+        "latency_ms": 17.1,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 68,
+        "base_station_id": "BS2",
+        "active_users": 345,
+        "traffic_demand": 34.8,
+        "resource_capacity": 100,
+        "utilization": 34.83,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 68,
+        "base_station_id": "BS3",
+        "active_users": 340,
+        "traffic_demand": 35.7,
+        "resource_capacity": 100,
+        "utilization": 35.74,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.25
+    },
+    {
+        "timestamp": 68,
+        "base_station_id": "BS4",
+        "active_users": 342,
+        "traffic_demand": 36.0,
+        "resource_capacity": 100,
+        "utilization": 35.99,
+        "latency_ms": 17.0,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 68,
+        "base_station_id": "BS5",
+        "active_users": 362,
+        "traffic_demand": 40.0,
+        "resource_capacity": 100,
+        "utilization": 40.03,
+        "latency_ms": 15.7,
+        "packet_loss_percent": 0.2
+    },
+    {
+        "timestamp": 68,
+        "base_station_id": "BS6",
+        "active_users": 315,
+        "traffic_demand": 32.4,
+        "resource_capacity": 100,
+        "utilization": 32.45,
+        "latency_ms": 13.7,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 69,
+        "base_station_id": "BS1",
+        "active_users": 349,
+        "traffic_demand": 37.4,
+        "resource_capacity": 100,
+        "utilization": 37.41,
+        "latency_ms": 15.3,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 69,
+        "base_station_id": "BS2",
+        "active_users": 340,
+        "traffic_demand": 37.1,
+        "resource_capacity": 100,
+        "utilization": 37.05,
+        "latency_ms": 14.8,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 69,
+        "base_station_id": "BS3",
+        "active_users": 353,
+        "traffic_demand": 36.2,
+        "resource_capacity": 100,
+        "utilization": 36.24,
+        "latency_ms": 14.4,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 69,
+        "base_station_id": "BS4",
+        "active_users": 329,
+        "traffic_demand": 33.9,
+        "resource_capacity": 100,
+        "utilization": 33.91,
+        "latency_ms": 16.6,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 69,
+        "base_station_id": "BS5",
+        "active_users": 389,
+        "traffic_demand": 39.2,
+        "resource_capacity": 100,
+        "utilization": 39.19,
+        "latency_ms": 15.9,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 69,
+        "base_station_id": "BS6",
+        "active_users": 329,
+        "traffic_demand": 33.9,
+        "resource_capacity": 100,
+        "utilization": 33.85,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 70,
+        "base_station_id": "BS1",
+        "active_users": 348,
+        "traffic_demand": 38.4,
+        "resource_capacity": 100,
+        "utilization": 38.35,
+        "latency_ms": 15.7,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 70,
+        "base_station_id": "BS2",
+        "active_users": 344,
+        "traffic_demand": 34.8,
+        "resource_capacity": 100,
+        "utilization": 34.81,
+        "latency_ms": 15.0,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 70,
+        "base_station_id": "BS3",
+        "active_users": 341,
+        "traffic_demand": 35.4,
+        "resource_capacity": 100,
+        "utilization": 35.38,
+        "latency_ms": 14.9,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 70,
+        "base_station_id": "BS4",
+        "active_users": 346,
+        "traffic_demand": 36.4,
+        "resource_capacity": 100,
+        "utilization": 36.45,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 70,
+        "base_station_id": "BS5",
+        "active_users": 330,
+        "traffic_demand": 34.5,
+        "resource_capacity": 100,
+        "utilization": 34.54,
+        "latency_ms": 17.8,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 70,
+        "base_station_id": "BS6",
+        "active_users": 334,
+        "traffic_demand": 35.1,
+        "resource_capacity": 100,
+        "utilization": 35.13,
+        "latency_ms": 18.2,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 71,
+        "base_station_id": "BS1",
+        "active_users": 348,
+        "traffic_demand": 38.1,
+        "resource_capacity": 100,
+        "utilization": 38.13,
+        "latency_ms": 16.8,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 71,
+        "base_station_id": "BS2",
+        "active_users": 342,
+        "traffic_demand": 36.4,
+        "resource_capacity": 100,
+        "utilization": 36.41,
+        "latency_ms": 14.4,
+        "packet_loss_percent": 0.15
+    },
+    {
+        "timestamp": 71,
+        "base_station_id": "BS3",
+        "active_users": 336,
+        "traffic_demand": 34.2,
+        "resource_capacity": 100,
+        "utilization": 34.21,
+        "latency_ms": 17.2,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 71,
+        "base_station_id": "BS4",
+        "active_users": 352,
+        "traffic_demand": 36.6,
+        "resource_capacity": 100,
+        "utilization": 36.61,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 71,
+        "base_station_id": "BS5",
+        "active_users": 341,
+        "traffic_demand": 36.1,
+        "resource_capacity": 100,
+        "utilization": 36.09,
+        "latency_ms": 15.9,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 71,
+        "base_station_id": "BS6",
+        "active_users": 341,
+        "traffic_demand": 37.6,
+        "resource_capacity": 100,
+        "utilization": 37.6,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 72,
+        "base_station_id": "BS1",
+        "active_users": 340,
+        "traffic_demand": 34.7,
+        "resource_capacity": 100,
+        "utilization": 34.66,
+        "latency_ms": 15.9,
+        "packet_loss_percent": 0.22
+    },
+    {
+        "timestamp": 72,
+        "base_station_id": "BS2",
+        "active_users": 371,
+        "traffic_demand": 38.6,
+        "resource_capacity": 100,
+        "utilization": 38.56,
+        "latency_ms": 15.6,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 72,
+        "base_station_id": "BS3",
+        "active_users": 327,
+        "traffic_demand": 32.8,
+        "resource_capacity": 100,
+        "utilization": 32.85,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 72,
+        "base_station_id": "BS4",
+        "active_users": 330,
+        "traffic_demand": 33.2,
+        "resource_capacity": 100,
+        "utilization": 33.23,
+        "latency_ms": 13.2,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 72,
+        "base_station_id": "BS5",
+        "active_users": 318,
+        "traffic_demand": 32.5,
+        "resource_capacity": 100,
+        "utilization": 32.48,
+        "latency_ms": 14.5,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 72,
+        "base_station_id": "BS6",
+        "active_users": 352,
+        "traffic_demand": 38.9,
+        "resource_capacity": 100,
+        "utilization": 38.92,
+        "latency_ms": 17.4,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 73,
+        "base_station_id": "BS1",
+        "active_users": 324,
+        "traffic_demand": 35.2,
+        "resource_capacity": 100,
+        "utilization": 35.24,
+        "latency_ms": 15.1,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 73,
+        "base_station_id": "BS2",
+        "active_users": 343,
+        "traffic_demand": 36.5,
+        "resource_capacity": 100,
+        "utilization": 36.5,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 73,
+        "base_station_id": "BS3",
+        "active_users": 335,
+        "traffic_demand": 35.7,
+        "resource_capacity": 100,
+        "utilization": 35.71,
+        "latency_ms": 15.5,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 73,
+        "base_station_id": "BS4",
+        "active_users": 334,
+        "traffic_demand": 36.4,
+        "resource_capacity": 100,
+        "utilization": 36.42,
+        "latency_ms": 15.3,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 73,
+        "base_station_id": "BS5",
+        "active_users": 342,
+        "traffic_demand": 36.1,
+        "resource_capacity": 100,
+        "utilization": 36.14,
+        "latency_ms": 15.1,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 73,
+        "base_station_id": "BS6",
+        "active_users": 360,
+        "traffic_demand": 37.6,
+        "resource_capacity": 100,
+        "utilization": 37.55,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 74,
+        "base_station_id": "BS1",
+        "active_users": 349,
+        "traffic_demand": 36.1,
+        "resource_capacity": 100,
+        "utilization": 36.11,
+        "latency_ms": 15.9,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 74,
+        "base_station_id": "BS2",
+        "active_users": 344,
+        "traffic_demand": 35.0,
+        "resource_capacity": 100,
+        "utilization": 35.04,
+        "latency_ms": 17.1,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 74,
+        "base_station_id": "BS3",
+        "active_users": 341,
+        "traffic_demand": 35.8,
+        "resource_capacity": 100,
+        "utilization": 35.77,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 74,
+        "base_station_id": "BS4",
+        "active_users": 340,
+        "traffic_demand": 36.9,
+        "resource_capacity": 100,
+        "utilization": 36.87,
+        "latency_ms": 15.6,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 74,
+        "base_station_id": "BS5",
+        "active_users": 333,
+        "traffic_demand": 33.7,
+        "resource_capacity": 100,
+        "utilization": 33.74,
+        "latency_ms": 14.7,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 74,
+        "base_station_id": "BS6",
+        "active_users": 308,
+        "traffic_demand": 32.6,
+        "resource_capacity": 100,
+        "utilization": 32.59,
+        "latency_ms": 13.7,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 75,
+        "base_station_id": "BS1",
+        "active_users": 339,
+        "traffic_demand": 34.0,
+        "resource_capacity": 100,
+        "utilization": 34.03,
+        "latency_ms": 16.9,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 75,
+        "base_station_id": "BS2",
+        "active_users": 342,
+        "traffic_demand": 34.5,
+        "resource_capacity": 100,
+        "utilization": 34.54,
+        "latency_ms": 17.8,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 75,
+        "base_station_id": "BS3",
+        "active_users": 334,
+        "traffic_demand": 35.2,
+        "resource_capacity": 100,
+        "utilization": 35.23,
+        "latency_ms": 16.6,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 75,
+        "base_station_id": "BS4",
+        "active_users": 322,
+        "traffic_demand": 34.6,
+        "resource_capacity": 100,
+        "utilization": 34.62,
+        "latency_ms": 15.6,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 75,
+        "base_station_id": "BS5",
+        "active_users": 316,
+        "traffic_demand": 33.1,
+        "resource_capacity": 100,
+        "utilization": 33.07,
+        "latency_ms": 18.0,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 75,
+        "base_station_id": "BS6",
+        "active_users": 365,
+        "traffic_demand": 38.7,
+        "resource_capacity": 100,
+        "utilization": 38.73,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 76,
+        "base_station_id": "BS1",
+        "active_users": 341,
+        "traffic_demand": 35.6,
+        "resource_capacity": 100,
+        "utilization": 35.61,
+        "latency_ms": 13.5,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 76,
+        "base_station_id": "BS2",
+        "active_users": 337,
+        "traffic_demand": 34.2,
+        "resource_capacity": 100,
+        "utilization": 34.24,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 76,
+        "base_station_id": "BS3",
+        "active_users": 303,
+        "traffic_demand": 33.3,
+        "resource_capacity": 100,
+        "utilization": 33.26,
+        "latency_ms": 14.2,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 76,
+        "base_station_id": "BS4",
+        "active_users": 318,
+        "traffic_demand": 34.4,
+        "resource_capacity": 100,
+        "utilization": 34.4,
+        "latency_ms": 14.8,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 76,
+        "base_station_id": "BS5",
+        "active_users": 337,
+        "traffic_demand": 33.8,
+        "resource_capacity": 100,
+        "utilization": 33.81,
+        "latency_ms": 14.9,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 76,
+        "base_station_id": "BS6",
+        "active_users": 336,
+        "traffic_demand": 35.4,
+        "resource_capacity": 100,
+        "utilization": 35.43,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 77,
+        "base_station_id": "BS1",
+        "active_users": 318,
+        "traffic_demand": 33.6,
+        "resource_capacity": 100,
+        "utilization": 33.58,
+        "latency_ms": 14.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 77,
+        "base_station_id": "BS2",
+        "active_users": 326,
+        "traffic_demand": 36.0,
+        "resource_capacity": 100,
+        "utilization": 36.02,
+        "latency_ms": 15.0,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 77,
+        "base_station_id": "BS3",
+        "active_users": 298,
+        "traffic_demand": 32.4,
+        "resource_capacity": 100,
+        "utilization": 32.36,
+        "latency_ms": 16.6,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 77,
+        "base_station_id": "BS4",
+        "active_users": 338,
+        "traffic_demand": 35.8,
+        "resource_capacity": 100,
+        "utilization": 35.84,
+        "latency_ms": 14.4,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 77,
+        "base_station_id": "BS5",
+        "active_users": 345,
+        "traffic_demand": 36.0,
+        "resource_capacity": 100,
+        "utilization": 35.99,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 77,
+        "base_station_id": "BS6",
+        "active_users": 313,
+        "traffic_demand": 32.9,
+        "resource_capacity": 100,
+        "utilization": 32.88,
+        "latency_ms": 17.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 78,
+        "base_station_id": "BS1",
+        "active_users": 348,
+        "traffic_demand": 35.7,
+        "resource_capacity": 100,
+        "utilization": 35.7,
+        "latency_ms": 15.3,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 78,
+        "base_station_id": "BS2",
+        "active_users": 349,
+        "traffic_demand": 36.6,
+        "resource_capacity": 100,
+        "utilization": 36.58,
+        "latency_ms": 15.6,
+        "packet_loss_percent": 0.18
+    },
+    {
+        "timestamp": 78,
+        "base_station_id": "BS3",
+        "active_users": 341,
+        "traffic_demand": 37.4,
+        "resource_capacity": 100,
+        "utilization": 37.39,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 78,
+        "base_station_id": "BS4",
+        "active_users": 342,
+        "traffic_demand": 36.2,
+        "resource_capacity": 100,
+        "utilization": 36.18,
+        "latency_ms": 18.4,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 78,
+        "base_station_id": "BS5",
+        "active_users": 316,
+        "traffic_demand": 33.1,
+        "resource_capacity": 100,
+        "utilization": 33.09,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.2
+    },
+    {
+        "timestamp": 78,
+        "base_station_id": "BS6",
+        "active_users": 323,
+        "traffic_demand": 33.3,
+        "resource_capacity": 100,
+        "utilization": 33.33,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 79,
+        "base_station_id": "BS1",
+        "active_users": 314,
+        "traffic_demand": 34.6,
+        "resource_capacity": 100,
+        "utilization": 34.59,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 79,
+        "base_station_id": "BS2",
+        "active_users": 309,
+        "traffic_demand": 31.9,
+        "resource_capacity": 100,
+        "utilization": 31.91,
+        "latency_ms": 15.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 79,
+        "base_station_id": "BS3",
+        "active_users": 340,
+        "traffic_demand": 36.4,
+        "resource_capacity": 100,
+        "utilization": 36.37,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 79,
+        "base_station_id": "BS4",
+        "active_users": 336,
+        "traffic_demand": 34.5,
+        "resource_capacity": 100,
+        "utilization": 34.53,
+        "latency_ms": 17.1,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 79,
+        "base_station_id": "BS5",
+        "active_users": 320,
+        "traffic_demand": 32.8,
+        "resource_capacity": 100,
+        "utilization": 32.75,
+        "latency_ms": 16.8,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 79,
+        "base_station_id": "BS6",
+        "active_users": 324,
+        "traffic_demand": 34.6,
+        "resource_capacity": 100,
+        "utilization": 34.62,
+        "latency_ms": 16.1,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 80,
+        "base_station_id": "BS1",
+        "active_users": 345,
+        "traffic_demand": 35.5,
+        "resource_capacity": 100,
+        "utilization": 35.5,
+        "latency_ms": 17.2,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 80,
+        "base_station_id": "BS2",
+        "active_users": 309,
+        "traffic_demand": 32.3,
+        "resource_capacity": 100,
+        "utilization": 32.34,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 80,
+        "base_station_id": "BS3",
+        "active_users": 332,
+        "traffic_demand": 36.5,
+        "resource_capacity": 100,
+        "utilization": 36.46,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 80,
+        "base_station_id": "BS4",
+        "active_users": 345,
+        "traffic_demand": 36.6,
+        "resource_capacity": 100,
+        "utilization": 36.6,
+        "latency_ms": 18.7,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 80,
+        "base_station_id": "BS5",
+        "active_users": 349,
+        "traffic_demand": 34.9,
+        "resource_capacity": 100,
+        "utilization": 34.92,
+        "latency_ms": 14.5,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 80,
+        "base_station_id": "BS6",
+        "active_users": 354,
+        "traffic_demand": 38.4,
+        "resource_capacity": 100,
+        "utilization": 38.42,
+        "latency_ms": 18.7,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 81,
+        "base_station_id": "BS1",
+        "active_users": 339,
+        "traffic_demand": 34.4,
+        "resource_capacity": 100,
+        "utilization": 34.42,
+        "latency_ms": 16.6,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 81,
+        "base_station_id": "BS2",
+        "active_users": 301,
+        "traffic_demand": 31.6,
+        "resource_capacity": 100,
+        "utilization": 31.62,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 81,
+        "base_station_id": "BS3",
+        "active_users": 326,
+        "traffic_demand": 35.3,
+        "resource_capacity": 100,
+        "utilization": 35.34,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 81,
+        "base_station_id": "BS4",
+        "active_users": 339,
+        "traffic_demand": 34.6,
+        "resource_capacity": 100,
+        "utilization": 34.6,
+        "latency_ms": 17.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 81,
+        "base_station_id": "BS5",
+        "active_users": 345,
+        "traffic_demand": 38.0,
+        "resource_capacity": 100,
+        "utilization": 38.03,
+        "latency_ms": 15.5,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 81,
+        "base_station_id": "BS6",
+        "active_users": 280,
+        "traffic_demand": 28.6,
+        "resource_capacity": 100,
+        "utilization": 28.58,
+        "latency_ms": 14.8,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 82,
+        "base_station_id": "BS1",
+        "active_users": 322,
+        "traffic_demand": 35.6,
+        "resource_capacity": 100,
+        "utilization": 35.63,
+        "latency_ms": 15.3,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 82,
+        "base_station_id": "BS2",
+        "active_users": 312,
+        "traffic_demand": 32.4,
+        "resource_capacity": 100,
+        "utilization": 32.36,
+        "latency_ms": 14.4,
+        "packet_loss_percent": 0.15
+    },
+    {
+        "timestamp": 82,
+        "base_station_id": "BS3",
+        "active_users": 340,
+        "traffic_demand": 37.0,
+        "resource_capacity": 100,
+        "utilization": 36.98,
+        "latency_ms": 16.8,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 82,
+        "base_station_id": "BS4",
+        "active_users": 335,
+        "traffic_demand": 35.8,
+        "resource_capacity": 100,
+        "utilization": 35.83,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 82,
+        "base_station_id": "BS5",
+        "active_users": 369,
+        "traffic_demand": 37.8,
+        "resource_capacity": 100,
+        "utilization": 37.83,
+        "latency_ms": 17.5,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 82,
+        "base_station_id": "BS6",
+        "active_users": 298,
+        "traffic_demand": 31.4,
+        "resource_capacity": 100,
+        "utilization": 31.42,
+        "latency_ms": 15.7,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 83,
+        "base_station_id": "BS1",
+        "active_users": 319,
+        "traffic_demand": 32.0,
+        "resource_capacity": 100,
+        "utilization": 32.05,
+        "latency_ms": 15.1,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 83,
+        "base_station_id": "BS2",
+        "active_users": 325,
+        "traffic_demand": 33.8,
+        "resource_capacity": 100,
+        "utilization": 33.79,
+        "latency_ms": 18.1,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 83,
+        "base_station_id": "BS3",
+        "active_users": 316,
+        "traffic_demand": 34.4,
+        "resource_capacity": 100,
+        "utilization": 34.39,
+        "latency_ms": 15.0,
+        "packet_loss_percent": 0.22
+    },
+    {
+        "timestamp": 83,
+        "base_station_id": "BS4",
+        "active_users": 319,
+        "traffic_demand": 32.3,
+        "resource_capacity": 100,
+        "utilization": 32.25,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 83,
+        "base_station_id": "BS5",
+        "active_users": 318,
+        "traffic_demand": 32.3,
+        "resource_capacity": 100,
+        "utilization": 32.29,
+        "latency_ms": 15.5,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 83,
+        "base_station_id": "BS6",
+        "active_users": 327,
+        "traffic_demand": 35.2,
+        "resource_capacity": 100,
+        "utilization": 35.21,
+        "latency_ms": 15.2,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 84,
+        "base_station_id": "BS1",
+        "active_users": 352,
+        "traffic_demand": 36.4,
+        "resource_capacity": 100,
+        "utilization": 36.4,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 84,
+        "base_station_id": "BS2",
+        "active_users": 350,
+        "traffic_demand": 36.1,
+        "resource_capacity": 100,
+        "utilization": 36.09,
+        "latency_ms": 16.2,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 84,
+        "base_station_id": "BS3",
+        "active_users": 312,
+        "traffic_demand": 31.7,
+        "resource_capacity": 100,
+        "utilization": 31.68,
+        "latency_ms": 18.1,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 84,
+        "base_station_id": "BS4",
+        "active_users": 338,
+        "traffic_demand": 34.4,
+        "resource_capacity": 100,
+        "utilization": 34.44,
+        "latency_ms": 15.3,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 84,
+        "base_station_id": "BS5",
+        "active_users": 340,
+        "traffic_demand": 34.3,
+        "resource_capacity": 100,
+        "utilization": 34.35,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 84,
+        "base_station_id": "BS6",
+        "active_users": 336,
+        "traffic_demand": 33.7,
+        "resource_capacity": 100,
+        "utilization": 33.69,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 85,
+        "base_station_id": "BS1",
+        "active_users": 316,
+        "traffic_demand": 34.7,
+        "resource_capacity": 100,
+        "utilization": 34.72,
+        "latency_ms": 13.9,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 85,
+        "base_station_id": "BS2",
+        "active_users": 305,
+        "traffic_demand": 31.7,
+        "resource_capacity": 100,
+        "utilization": 31.74,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 85,
+        "base_station_id": "BS3",
+        "active_users": 307,
+        "traffic_demand": 31.3,
+        "resource_capacity": 100,
+        "utilization": 31.35,
+        "latency_ms": 17.4,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 85,
+        "base_station_id": "BS4",
+        "active_users": 349,
+        "traffic_demand": 35.8,
+        "resource_capacity": 100,
+        "utilization": 35.81,
+        "latency_ms": 15.7,
+        "packet_loss_percent": 0.22
+    },
+    {
+        "timestamp": 85,
+        "base_station_id": "BS5",
+        "active_users": 305,
+        "traffic_demand": 33.3,
+        "resource_capacity": 100,
+        "utilization": 33.32,
+        "latency_ms": 15.4,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 85,
+        "base_station_id": "BS6",
+        "active_users": 305,
+        "traffic_demand": 32.4,
+        "resource_capacity": 100,
+        "utilization": 32.44,
+        "latency_ms": 15.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 86,
+        "base_station_id": "BS1",
+        "active_users": 310,
+        "traffic_demand": 34.0,
+        "resource_capacity": 100,
+        "utilization": 33.98,
+        "latency_ms": 15.5,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 86,
+        "base_station_id": "BS2",
+        "active_users": 318,
+        "traffic_demand": 34.9,
+        "resource_capacity": 100,
+        "utilization": 34.89,
+        "latency_ms": 14.6,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 86,
+        "base_station_id": "BS3",
+        "active_users": 321,
+        "traffic_demand": 32.4,
+        "resource_capacity": 100,
+        "utilization": 32.42,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 86,
+        "base_station_id": "BS4",
+        "active_users": 316,
+        "traffic_demand": 32.0,
+        "resource_capacity": 100,
+        "utilization": 31.97,
+        "latency_ms": 14.5,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 86,
+        "base_station_id": "BS5",
+        "active_users": 310,
+        "traffic_demand": 31.9,
+        "resource_capacity": 100,
+        "utilization": 31.9,
+        "latency_ms": 16.6,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 86,
+        "base_station_id": "BS6",
+        "active_users": 312,
+        "traffic_demand": 33.8,
+        "resource_capacity": 100,
+        "utilization": 33.81,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.09
+    },
+    {
+        "timestamp": 87,
+        "base_station_id": "BS1",
+        "active_users": 309,
+        "traffic_demand": 33.8,
+        "resource_capacity": 100,
+        "utilization": 33.83,
+        "latency_ms": 14.7,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 87,
+        "base_station_id": "BS2",
+        "active_users": 319,
+        "traffic_demand": 32.7,
+        "resource_capacity": 100,
+        "utilization": 32.69,
+        "latency_ms": 15.5,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 87,
+        "base_station_id": "BS3",
+        "active_users": 350,
+        "traffic_demand": 36.9,
+        "resource_capacity": 100,
+        "utilization": 36.92,
+        "latency_ms": 15.6,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 87,
+        "base_station_id": "BS4",
+        "active_users": 321,
+        "traffic_demand": 33.9,
+        "resource_capacity": 100,
+        "utilization": 33.92,
+        "latency_ms": 15.5,
+        "packet_loss_percent": 0.2
+    },
+    {
+        "timestamp": 87,
+        "base_station_id": "BS5",
+        "active_users": 323,
+        "traffic_demand": 34.2,
+        "resource_capacity": 100,
+        "utilization": 34.18,
+        "latency_ms": 15.2,
+        "packet_loss_percent": 0.11
+    },
+    {
+        "timestamp": 87,
+        "base_station_id": "BS6",
+        "active_users": 325,
+        "traffic_demand": 34.8,
+        "resource_capacity": 100,
+        "utilization": 34.82,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.16
+    },
+    {
+        "timestamp": 88,
+        "base_station_id": "BS1",
+        "active_users": 312,
+        "traffic_demand": 33.2,
+        "resource_capacity": 100,
+        "utilization": 33.16,
+        "latency_ms": 16.6,
+        "packet_loss_percent": 0.12
+    },
+    {
+        "timestamp": 88,
+        "base_station_id": "BS2",
+        "active_users": 314,
+        "traffic_demand": 32.2,
+        "resource_capacity": 100,
+        "utilization": 32.24,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 88,
+        "base_station_id": "BS3",
+        "active_users": 301,
+        "traffic_demand": 31.8,
+        "resource_capacity": 100,
+        "utilization": 31.75,
+        "latency_ms": 16.3,
+        "packet_loss_percent": 0.14
+    },
+    {
+        "timestamp": 88,
+        "base_station_id": "BS4",
+        "active_users": 318,
+        "traffic_demand": 32.5,
+        "resource_capacity": 100,
+        "utilization": 32.5,
+        "latency_ms": 15.7,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 88,
+        "base_station_id": "BS5",
+        "active_users": 329,
+        "traffic_demand": 33.3,
+        "resource_capacity": 100,
+        "utilization": 33.35,
+        "latency_ms": 17.1,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 88,
+        "base_station_id": "BS6",
+        "active_users": 313,
+        "traffic_demand": 31.5,
+        "resource_capacity": 100,
+        "utilization": 31.5,
+        "latency_ms": 17.3,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 89,
+        "base_station_id": "BS1",
+        "active_users": 317,
+        "traffic_demand": 32.2,
+        "resource_capacity": 100,
+        "utilization": 32.17,
+        "latency_ms": 14.1,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 89,
+        "base_station_id": "BS2",
+        "active_users": 357,
+        "traffic_demand": 37.9,
+        "resource_capacity": 100,
+        "utilization": 37.87,
+        "latency_ms": 15.3,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 89,
+        "base_station_id": "BS3",
+        "active_users": 321,
+        "traffic_demand": 32.5,
+        "resource_capacity": 100,
+        "utilization": 32.47,
+        "latency_ms": 15.5,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 89,
+        "base_station_id": "BS4",
+        "active_users": 327,
+        "traffic_demand": 35.3,
+        "resource_capacity": 100,
+        "utilization": 35.3,
+        "latency_ms": 16.4,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 89,
+        "base_station_id": "BS5",
+        "active_users": 312,
+        "traffic_demand": 33.5,
+        "resource_capacity": 100,
+        "utilization": 33.46,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 89,
+        "base_station_id": "BS6",
+        "active_users": 305,
+        "traffic_demand": 31.2,
+        "resource_capacity": 100,
+        "utilization": 31.17,
+        "latency_ms": 15.1,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 90,
+        "base_station_id": "BS1",
+        "active_users": 300,
+        "traffic_demand": 32.8,
+        "resource_capacity": 100,
+        "utilization": 32.8,
+        "latency_ms": 17.3,
+        "packet_loss_percent": 0.06
+    },
+    {
+        "timestamp": 90,
+        "base_station_id": "BS2",
+        "active_users": 304,
+        "traffic_demand": 33.5,
+        "resource_capacity": 100,
+        "utilization": 33.47,
+        "latency_ms": 15.1,
+        "packet_loss_percent": 0.08
+    },
+    {
+        "timestamp": 90,
+        "base_station_id": "BS3",
+        "active_users": 311,
+        "traffic_demand": 33.7,
+        "resource_capacity": 100,
+        "utilization": 33.67,
+        "latency_ms": 16.0,
+        "packet_loss_percent": 0.13
+    },
+    {
+        "timestamp": 90,
+        "base_station_id": "BS4",
+        "active_users": 297,
+        "traffic_demand": 31.4,
+        "resource_capacity": 100,
+        "utilization": 31.4,
+        "latency_ms": 15.7,
+        "packet_loss_percent": 0.1
+    },
+    {
+        "timestamp": 90,
+        "base_station_id": "BS5",
+        "active_users": 316,
+        "traffic_demand": 32.2,
+        "resource_capacity": 100,
+        "utilization": 32.22,
+        "latency_ms": 16.5,
+        "packet_loss_percent": 0.07
+    },
+    {
+        "timestamp": 90,
+        "base_station_id": "BS6",
+        "active_users": 302,
+        "traffic_demand": 32.7,
+        "resource_capacity": 100,
+        "utilization": 32.65,
+        "latency_ms": 16.7,
+        "packet_loss_percent": 0.1
+    }
+]
